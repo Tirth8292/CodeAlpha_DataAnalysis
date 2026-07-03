@@ -18,9 +18,9 @@ classify review sentiment with NLP → validate sentiment against real star rati
 
 | Task | Repo Name | Description |
 |---|---|---|
-| Task 2 | [`CodeAlpha_ExploratoryDataAnalysis`](../CodeAlpha_ExploratoryDataAnalysis_Task2) | Data cleaning + exploratory analysis of ratings, cuisines, and trends |
-| Task 3 | [`CodeAlpha_DataVisualization`](../CodeAlpha_DataVisualization_Task3) | 6-chart visualization suite: bar charts, heatmap, box plot, word cloud |
-| Task 4 | [`CodeAlpha_SentimentAnalysis`](../CodeAlpha_SentimentAnalysis_Task4) | VADER-based sentiment classification, validated against star ratings |
+| Task 2 | [`CodeAlpha_ExploratoryDataAnalysis_Task2`](../CodeAlpha_ExploratoryDataAnalysis_Task2) | Data cleaning + exploratory analysis of ratings, cuisines, and trends |
+| Task 3 | [`CodeAlpha_DataVisualization_Task3`](../CodeAlpha_DataVisualization_Task3) | 6-chart visualization suite: bar charts, heatmap, box plot, word cloud |
+| Task 4 | [`CodeAlpha_SentimentAnalysis_Task4`](../CodeAlpha_SentimentAnalysis_Task4) | VADER-based sentiment classification, validated against star ratings |
 
 *(Replace the links above with your actual GitHub repo URLs once pushed.)*
 
