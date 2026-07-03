@@ -18,31 +18,31 @@ classify review sentiment with NLP → validate sentiment against real star rati
 
 | Task | Repo Name | Description |
 |---|---|---|
-| Task 2 | [`CodeAlpha_ExploratoryDataAnalysis`](../CodeAlpha_ExploratoryDataAnalysis) | Data cleaning + exploratory analysis of ratings, cuisines, and trends |
-| Task 3 | [`CodeAlpha_DataVisualization`](../CodeAlpha_DataVisualization) | 6-chart visualization suite: bar charts, heatmap, box plot, word cloud |
-| Task 4 | [`CodeAlpha_SentimentAnalysis`](../CodeAlpha_SentimentAnalysis) | VADER-based sentiment classification, validated against star ratings |
+| Task 2 | [`CodeAlpha_ExploratoryDataAnalysis`](../CodeAlpha_ExploratoryDataAnalysis_Task2) | Data cleaning + exploratory analysis of ratings, cuisines, and trends |
+| Task 3 | [`CodeAlpha_DataVisualization`](../CodeAlpha_DataVisualization_Task3) | 6-chart visualization suite: bar charts, heatmap, box plot, word cloud |
+| Task 4 | [`CodeAlpha_SentimentAnalysis`](../CodeAlpha_SentimentAnalysis_Task4) | VADER-based sentiment classification, validated against star ratings |
 
 *(Replace the links above with your actual GitHub repo URLs once pushed.)*
 
 ## 🖼 Best Visuals Across All Tasks
 
 ### Rating Distribution (Task 2 & 3)
-![Rating Distribution](CodeAlpha_DataVisualization/charts/01_rating_distribution.png)
+![Rating Distribution](CodeAlpha_ExploratoryDataAnalysis_Task2/charts/01_rating_distribution.png)
 
 ### Average Rating by Cuisine (Task 3)
-![Average Rating by Cuisine](CodeAlpha_DataVisualization/charts/02_avg_rating_by_cuisine.png)
+![Average Rating by Cuisine](CodeAlpha_DataVisualization_Task3/charts/02_avg_rating_by_cuisine.png)
 
 ### Cuisine vs City Heatmap (Task 3)
-![Cuisine vs City Heatmap](CodeAlpha_DataVisualization/charts/04_cuisine_city_heatmap.png)
+![Cuisine vs City Heatmap](CodeAlpha_DataVisualization_Task3/charts/04_cuisine_city_heatmap.png)
 
 ### Word Cloud of Reviews (Task 3)
-![Word Cloud](CodeAlpha_DataVisualization/charts/06_wordcloud.png)
+![Word Cloud](CodeAlpha_DataVisualization_Task3/charts/06_wordcloud.png)
 
 ### Sentiment Distribution (Task 4)
-![Sentiment Distribution](CodeAlpha_SentimentAnalysis/charts/07_sentiment_distribution.png)
+![Sentiment Distribution](CodeAlpha_SentimentAnalysis_Task4/charts/07_sentiment_distribution.png)
 
 ### Star Rating vs Predicted Sentiment (Task 4)
-![Rating vs Sentiment](CodeAlpha_SentimentAnalysis/charts/08_rating_vs_sentiment.png)
+![Rating vs Sentiment](CodeAlpha_SentimentAnalysis_Task4/charts/08_rating_vs_sentiment.png)
 
 ## 🔑 Key Findings
 
