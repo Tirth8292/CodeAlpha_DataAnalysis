@@ -76,12 +76,3 @@ turn the cleaned data into a clear visual story.
 **Task 4 — Sentiment Analysis:** Applied VADER sentiment analysis to review text,
 classified reviews as Positive/Neutral/Negative, and validated predictions against
 actual star ratings (69.1% agreement).
-
-## 🎓 Internship Submission Checklist
-- [ ] Push each task to its own GitHub repo (`CodeAlpha_ExploratoryDataAnalysis`, `CodeAlpha_DataVisualization`, `CodeAlpha_SentimentAnalysis`)
-- [ ] Record video walkthrough(s) and post on LinkedIn tagging @CodeAlpha
-- [ ] Include GitHub repo link(s) in the LinkedIn post
-- [ ] Submit via the WhatsApp submission form
-
----
-*#codealpha #dataanalytics #internship #eda #datavisualization #sentimentanalysis*
