@@ -1,0 +1,659 @@
+review_id,restaurant_name,cuisine_type,city,rating,review_text,review_length,review_date
+1,The Burger Joint,American,Bengaluru,5,"Fresh ingredients and bold flavors, highly recommend this place. Best meal I've had in months, will definitely come back!",121,2025-05-15
+2,Green Leaf Cafe,Vegan,Mumbai,3,"Reasonable prices, the menu could use more variety though.",58,2023-07-29
+3,Smoky BBQ Pit,American,Mumbai,4,The food was absolutely delicious and beautifully presented. Quick service even though the place was packed.,108,2024-12-05
+4,Coastal Kitchen,Seafood,Chennai,4,"Great spot for a family dinner, kids loved it too. A hidden gem, the flavors were authentic and comforting.",107,2023-06-11
+5,Rustic Oven,Italian,Bengaluru,4,The food was absolutely delicious and beautifully presented.,60,2024-01-29
+6,Pasta Palace,Italian,Hyderabad,3,"Average experience overall, might try another dish next time.",61,2023-06-13
+7,Ocean Grill,Seafood,Chennai,5,"Best meal I've had in months, will definitely come back! Portion sizes were generous and the prices were very fair.",115,2025-07-17
+8,Curry House,Indian,Delhi,5,"A hidden gem, the flavors were authentic and comforting.",56,2024-06-30
+9,Blue Lotus,Thai,Hyderabad,3,"Not the best, not the worst, a fairly typical dining experience.",64,2024-05-16
+10,Ocean Grill,Seafood,Ahmedabad,4,The food was absolutely delicious and beautifully presented. The ambiance was cozy and the staff made us feel welcome.,118,2024-03-25
+11,Green Leaf Cafe,Vegan,Chennai,3,"Average experience overall, might try another dish next time. Not the best, not the worst, a fairly typical dining experience.",126,2025-04-01
+12,Curry House,Indian,Delhi,4,"Great spot for a family dinner, kids loved it too. Quick service even though the place was packed.",98,2025-10-19
+13,Ocean Grill,Seafood,Pune,4,The staff went above and beyond to accommodate our allergies.,61,2023-10-13
+14,Rustic Oven,Italian,Delhi,2,The food was bland and lacked any real seasoning. The place was dirty and the tables hadn't been cleaned properly.,114,2025-05-27
+15,Saffron Table,Indian,Mumbai,1,The food was cold by the time it reached our table.,51,2025-10-07
+16,Sushi Zen,Japanese,Hyderabad,4,"A hidden gem, the flavors were authentic and comforting. Amazing service, our server was attentive and friendly.",112,2023-11-24
+17,Coastal Kitchen,Seafood,Mumbai,2,I found a hair in my food and the manager barely apologized. The food was cold by the time it reached our table.,112,2025-08-16
+18,Blue Lotus,Thai,Hyderabad,4,"Amazing service, our server was attentive and friendly. Fresh ingredients and bold flavors, highly recommend this place.",120,2024-06-30
+19,The Burger Joint,American,Delhi,3,"It's a standard restaurant, does the job but nothing memorable.",63,2025-07-18
+20,Saffron Table,Indian,Bengaluru,2,The portions were tiny for the price we paid. I found a hair in my food and the manager barely apologized.,106,2023-08-06
+21,Sushi Zen,Japanese,Ahmedabad,5,"Loved the dessert menu, the tiramisu was outstanding.",53,2025-02-04
+22,Chai & Chaat,Indian,Chennai,3,"The food was okay, nothing special but not bad either. Not the best, not the worst, a fairly typical dining experience.",119,2024-10-25
+23,Pasta Palace,Italian,Mumbai,3,"Service was fine, food took a bit longer than expected.",55,2024-05-05
+24,Bella Napoli,Italian,Delhi,2,I found a hair in my food and the manager barely apologized.,60,2025-09-22
+25,Sushi Zen,Japanese,Hyderabad,4,"Fresh ingredients and bold flavors, highly recommend this place.",64,2025-08-31
+26,Curry House,Indian,Chennai,5,"The chef clearly knows what they're doing, every dish was perfect. Great spot for a family dinner, kids loved it too.",117,2024-02-16
+27,Noodle Bar,Chinese,Bengaluru,3,"Average experience overall, might try another dish next time. Not the best, not the worst, a fairly typical dining experience.",126,2025-11-25
+28,Bella Napoli,Italian,Bengaluru,4,"A hidden gem, the flavors were authentic and comforting.",56,2024-11-23
+29,Rustic Oven,Italian,Ahmedabad,4,"Amazing service, our server was attentive and friendly.",55,2024-03-27
+30,Le Petit Bistro,French,Mumbai,3,The ambiance was nice but the food was just average.,52,2023-05-19
+31,Saffron Table,Indian,Delhi,3,"Not the best, not the worst, a fairly typical dining experience. Average experience overall, might try another dish next time.",126,2024-05-02
+32,Rustic Oven,Italian,Hyderabad,5,Quick service even though the place was packed.,47,2025-08-26
+33,Curry House,Indian,Hyderabad,4,"Great spot for a family dinner, kids loved it too.",50,2023-07-13
+34,Smoky BBQ Pit,American,Ahmedabad,3,"Not the best, not the worst, a fairly typical dining experience. Reasonable prices, the menu could use more variety though.",123,2025-05-17
+35,Taco Fiesta,Mexican,Mumbai,4,The staff went above and beyond to accommodate our allergies. Portion sizes were generous and the prices were very fair.,120,2023-05-05
+36,Le Petit Bistro,French,Jaipur,2,I found a hair in my food and the manager barely apologized.,60,2024-01-28
+37,Sushi Zen,Japanese,Jaipur,4,"Fresh ingredients and bold flavors, highly recommend this place.",64,2025-05-14
+38,Le Petit Bistro,French,Ahmedabad,1,I found a hair in my food and the manager barely apologized. Service was extremely slow and the staff seemed disinterested.,123,2023-06-04
+39,Blue Lotus,Thai,Delhi,3,"Service was fine, food took a bit longer than expected.",55,2023-01-31
+40,Urban Tandoor,Indian,Hyderabad,3,"Service was fine, food took a bit longer than expected. Reasonable prices, the menu could use more variety though.",114,2025-09-21
+41,Golden Dragon,Chinese,Pune,4,"The food was absolutely delicious and beautifully presented. The chef clearly knows what they're doing, every dish was perfect.",127,2023-12-04
+42,Noodle Bar,Chinese,Jaipur,4,"The staff went above and beyond to accommodate our allergies. Loved the dessert menu, the tiramisu was outstanding.",115,2024-08-07
+43,Sushi Zen,Japanese,Ahmedabad,4,The ambiance was cozy and the staff made us feel welcome. The food was absolutely delicious and beautifully presented.,118,2024-01-24
+44,Green Leaf Cafe,Vegan,Delhi,3,"Not the best, not the worst, a fairly typical dining experience.",64,2023-04-28
+45,Golden Dragon,Chinese,Mumbai,1,Way overpriced for the quality and quantity we received.,56,2025-11-06
+46,Chai & Chaat,Indian,Mumbai,2,,52,2023-05-20
+47,Rustic Oven,Italian,Mumbai,4,"A hidden gem, the flavors were authentic and comforting.",56,2024-05-19
+48,Urban Tandoor,Indian,Chennai,4,"Fresh ingredients and bold flavors, highly recommend this place. The ambiance was cozy and the staff made us feel welcome.",122,2025-12-06
+49,Le Petit Bistro,French,Pune,3,,105,2024-06-27
+50,Noodle Bar,Chinese,Jaipur,2,The food was cold by the time it reached our table.,51,2024-10-09
+51,Chai & Chaat,Indian,Pune,3,"Service was fine, food took a bit longer than expected.",55,2023-07-24
+52,Sushi Zen,Japanese,Chennai,4,The ambiance was cozy and the staff made us feel welcome.,57,2024-12-15
+53,Pasta Palace,Italian,Ahmedabad,2,I found a hair in my food and the manager barely apologized. Our order was wrong and it took forever to get it corrected.,121,2023-11-20
+54,Blue Lotus,Thai,Pune,5,"Best meal I've had in months, will definitely come back!",56,2024-09-05
+55,Taco Fiesta,Mexican,Pune,4,"Fresh ingredients and bold flavors, highly recommend this place.",64,2023-08-08
+56,Chai & Chaat,Indian,Pune,4,"The ambiance was cozy and the staff made us feel welcome. Great spot for a family dinner, kids loved it too.",108,2024-03-07
+57,Saffron Table,Indian,Hyderabad,2,The food was cold by the time it reached our table. Service was extremely slow and the staff seemed disinterested.,114,2025-09-27
+58,Ocean Grill,Seafood,Delhi,3,The ambiance was nice but the food was just average.,52,2023-04-01
+59,Ocean Grill,Seafood,Ahmedabad,4,"Loved the dessert menu, the tiramisu was outstanding. The chef clearly knows what they're doing, every dish was perfect.",120,2023-11-27
+60,Taco Fiesta,Mexican,Ahmedabad,4,"Loved the dessert menu, the tiramisu was outstanding.",53,2023-06-04
+61,Smoky BBQ Pit,American,Pune,3,"Decent place for a quick bite if you're in the area. The food was okay, nothing special but not bad either.",107,2023-10-31
+62,Smoky BBQ Pit,American,Bengaluru,4,"The ambiance was cozy and the staff made us feel welcome. Great spot for a family dinner, kids loved it too.",108,2023-03-23
+63,Taco Fiesta,Mexican,Bengaluru,2,"Definitely not worth the hype, quite disappointing overall. Way overpriced for the quality and quantity we received.",116,2024-12-25
+64,The Burger Joint,American,Chennai,3,"The food was okay, nothing special but not bad either. Average experience overall, might try another dish next time.",116,2023-12-29
+65,Urban Tandoor,Indian,Hyderabad,4,"Best meal I've had in months, will definitely come back! Amazing service, our server was attentive and friendly.",112,2024-05-23
+66,Golden Dragon,Chinese,Jaipur,4,The ambiance was cozy and the staff made us feel welcome.,57,2025-08-21
+67,Smoky BBQ Pit,American,Ahmedabad,4,The ambiance was cozy and the staff made us feel welcome.,57,2024-09-17
+68,Curry House,Indian,Pune,5,"Fresh ingredients and bold flavors, highly recommend this place. Amazing service, our server was attentive and friendly.",120,2025-03-27
+69,Smoky BBQ Pit,American,Chennai,4,"Great spot for a family dinner, kids loved it too. Loved the dessert menu, the tiramisu was outstanding.",104,2025-11-09
+70,The Spice Route,Indian,Pune,3,"Decent place for a quick bite if you're in the area. It's a standard restaurant, does the job but nothing memorable.",116,2023-08-25
+71,Golden Dragon,Chinese,Chennai,3,"The ambiance was nice but the food was just average. Not the best, not the worst, a fairly typical dining experience.",117,2023-08-11
+72,Urban Tandoor,Indian,Bengaluru,5,"The chef clearly knows what they're doing, every dish was perfect.",66,2025-11-13
+73,Ocean Grill,Seafood,Bengaluru,4,"The food was absolutely delicious and beautifully presented. Loved the dessert menu, the tiramisu was outstanding.",114,2023-04-01
+74,Smoky BBQ Pit,American,Chennai,5,"Great spot for a family dinner, kids loved it too.",50,2025-06-02
+75,Chai & Chaat,Indian,Pune,1,Parking was a nightmare and the staff was rude at the entrance.,63,2024-10-04
+76,Saffron Table,Indian,Pune,4,"Portion sizes were generous and the prices were very fair. The chef clearly knows what they're doing, every dish was perfect.",125,2024-09-25
+77,Blue Lotus,Thai,Hyderabad,4,"The chef clearly knows what they're doing, every dish was perfect.",66,2023-09-18
+78,The Burger Joint,American,Pune,4,"Loved the dessert menu, the tiramisu was outstanding. The food was absolutely delicious and beautifully presented.",114,2024-09-08
+79,Pasta Palace,Italian,Jaipur,3,"The ambiance was nice but the food was just average. Service was fine, food took a bit longer than expected.",108,2024-03-06
+80,Noodle Bar,Chinese,Mumbai,2,Parking was a nightmare and the staff was rude at the entrance. Way overpriced for the quality and quantity we received.,120,2024-03-13
+81,Pasta Palace,Italian,Bengaluru,3,"Average experience overall, might try another dish next time. Reasonable prices, the menu could use more variety though.",120,2025-11-21
+82,Pasta Palace,Italian,Ahmedabad,3,Decent place for a quick bite if you're in the area.,52,2024-04-05
+83,Golden Dragon,Chinese,Jaipur,4,"A hidden gem, the flavors were authentic and comforting. Amazing service, our server was attentive and friendly.",112,2024-05-16
+84,Urban Tandoor,Indian,Bengaluru,3,"Not the best, not the worst, a fairly typical dining experience. Service was fine, food took a bit longer than expected.",120,2024-02-03
+85,Sushi Zen,Japanese,Bengaluru,3,"Reasonable prices, the menu could use more variety though.",58,2023-01-12
+86,The Burger Joint,American,Bengaluru,4,"The food was absolutely delicious and beautifully presented. Loved the dessert menu, the tiramisu was outstanding.",114,2025-11-26
+87,Taco Fiesta,Mexican,Chennai,4,Quick service even though the place was packed.,47,2025-07-23
+88,Noodle Bar,Chinese,Delhi,4,"Loved the dessert menu, the tiramisu was outstanding. Quick service even though the place was packed.",101,2025-10-30
+89,The Pizza Cellar,Italian,Pune,3,"Service was fine, food took a bit longer than expected. Reasonable prices, the menu could use more variety though.",114,2025-07-10
+90,Saffron Table,Indian,Jaipur,4,"Fresh ingredients and bold flavors, highly recommend this place.",64,2025-09-19
+91,Bella Napoli,Italian,Chennai,3,"It's a standard restaurant, does the job but nothing memorable.",63,2024-08-08
+92,Green Leaf Cafe,Vegan,Bengaluru,4,"Best meal I've had in months, will definitely come back!",56,2023-06-15
+93,Coastal Kitchen,Seafood,Hyderabad,2,Service was extremely slow and the staff seemed disinterested.,62,2023-11-09
+94,Urban Tandoor,Indian,Bengaluru,3,"Reasonable prices, the menu could use more variety though. The food was okay, nothing special but not bad either.",113,2024-11-08
+95,Urban Tandoor,Indian,,3,"Reasonable prices, the menu could use more variety though.",58,2025-03-08
+96,The Spice Route,Indian,Hyderabad,3,"Reasonable prices, the menu could use more variety though. Not the best, not the worst, a fairly typical dining experience.",123,2024-12-21
+97,Blue Lotus,Thai,Hyderabad,4,"The ambiance was cozy and the staff made us feel welcome. Fresh ingredients and bold flavors, highly recommend this place.",122,2024-03-27
+98,The Pizza Cellar,Italian,Hyderabad,4,"Portion sizes were generous and the prices were very fair. Great spot for a family dinner, kids loved it too.",109,2023-03-01
+99,The Burger Joint,American,Ahmedabad,4,"A hidden gem, the flavors were authentic and comforting.",56,2025-08-15
+100,Coastal Kitchen,Seafood,Delhi,3,"Reasonable prices, the menu could use more variety though.",58,2023-02-25
+101,Noodle Bar,Chinese,Hyderabad,3,"It's a standard restaurant, does the job but nothing memorable.",63,2024-01-08
+102,Green Leaf Cafe,Vegan,Hyderabad,3,,105,2024-03-09
+103,Ocean Grill,Seafood,Ahmedabad,3,"Average experience overall, might try another dish next time. Service was fine, food took a bit longer than expected.",117,2025-05-13
+104,Blue Lotus,Thai,Mumbai,3,"Service was fine, food took a bit longer than expected. The ambiance was nice but the food was just average.",108,2023-04-17
+105,Golden Dragon,Chinese,Ahmedabad,3,"Service was fine, food took a bit longer than expected.",55,2023-03-05
+106,Chai & Chaat,Indian,Jaipur,3,Decent place for a quick bite if you're in the area.,52,2023-11-09
+107,Taco Fiesta,Mexican,Chennai,5,"The staff went above and beyond to accommodate our allergies. Fresh ingredients and bold flavors, highly recommend this place.",126,2024-03-22
+108,The Burger Joint,American,Mumbai,4,"Fresh ingredients and bold flavors, highly recommend this place.",64,2023-08-23
+109,Rustic Oven,Italian,Hyderabad,5,"A hidden gem, the flavors were authentic and comforting. Great spot for a family dinner, kids loved it too.",107,2023-02-22
+110,Coastal Kitchen,Seafood,Mumbai,3,"Service was fine, food took a bit longer than expected.",55,2024-02-11
+111,Pasta Palace,Italian,Hyderabad,1,The food was bland and lacked any real seasoning.,49,2023-09-05
+112,Smoky BBQ Pit,American,Jaipur,4,"The food was absolutely delicious and beautifully presented. The chef clearly knows what they're doing, every dish was perfect.",127,2023-05-22
+113,Taco Fiesta,Mexican,Delhi,3,"Not the best, not the worst, a fairly typical dining experience. The ambiance was nice but the food was just average.",117,2025-06-06
+114,Urban Tandoor,Indian,Jaipur,5,"A hidden gem, the flavors were authentic and comforting. Loved the dessert menu, the tiramisu was outstanding.",110,2023-12-27
+115,Noodle Bar,Chinese,Mumbai,4,Portion sizes were generous and the prices were very fair. The ambiance was cozy and the staff made us feel welcome.,116,2025-06-11
+116,Ocean Grill,Seafood,Hyderabad,4,Quick service even though the place was packed.,47,2025-07-12
+117,Green Leaf Cafe,Vegan,Jaipur,3,"The ambiance was nice but the food was just average. Average experience overall, might try another dish next time.",114,2023-02-28
+118,Curry House,Indian,Pune,3,The ambiance was nice but the food was just average. Decent place for a quick bite if you're in the area.,105,2024-12-27
+119,Blue Lotus,Thai,Bengaluru,5,"Amazing service, our server was attentive and friendly.",55,2023-01-21
+120,Urban Tandoor,Indian,Jaipur,4,The staff went above and beyond to accommodate our allergies.,61,2025-09-27
+121,The Pizza Cellar,Italian,Pune,5,"Amazing service, our server was attentive and friendly.",55,2025-07-06
+122,Le Petit Bistro,French,Chennai,2,Our order was wrong and it took forever to get it corrected.,60,2025-04-08
+123,The Pizza Cellar,Italian,Chennai,5,"The chef clearly knows what they're doing, every dish was perfect. Loved the dessert menu, the tiramisu was outstanding.",120,2025-12-23
+124,Smoky BBQ Pit,American,Bengaluru,2,Our order was wrong and it took forever to get it corrected. Parking was a nightmare and the staff was rude at the entrance.,124,2025-07-18
+125,Taco Fiesta,Mexican,Delhi,4,"Amazing service, our server was attentive and friendly. Loved the dessert menu, the tiramisu was outstanding.",109,2024-01-30
+126,Curry House,Indian,Pune,5,"Fresh ingredients and bold flavors, highly recommend this place. A hidden gem, the flavors were authentic and comforting.",121,2024-03-19
+127,Taco Fiesta,Mexican,Delhi,2,The place was dirty and the tables hadn't been cleaned properly. The food was bland and lacked any real seasoning.,114,2024-02-02
+128,Pasta Palace,Italian,Ahmedabad,2,Our order was wrong and it took forever to get it corrected.,60,2023-01-29
+129,Golden Dragon,Chinese,Mumbai,3,"Not the best, not the worst, a fairly typical dining experience.",64,2024-08-21
+130,The Spice Route,Indian,Chennai,3,"Not the best, not the worst, a fairly typical dining experience. Service was fine, food took a bit longer than expected.",120,2024-08-05
+131,The Burger Joint,American,Mumbai,3,"Not the best, not the worst, a fairly typical dining experience. The food was okay, nothing special but not bad either.",119,2023-04-16
+132,Coastal Kitchen,Seafood,Delhi,3,"The food was okay, nothing special but not bad either.",54,2025-10-04
+133,Sushi Zen,Japanese,Mumbai,3,"Service was fine, food took a bit longer than expected.",55,2024-09-14
+134,Blue Lotus,Thai,Hyderabad,4,"Loved the dessert menu, the tiramisu was outstanding.",53,2025-05-02
+135,Noodle Bar,Chinese,Ahmedabad,3,"Reasonable prices, the menu could use more variety though. Decent place for a quick bite if you're in the area.",111,2025-06-25
+136,Chai & Chaat,Indian,Bengaluru,4,"Great spot for a family dinner, kids loved it too.",50,2023-07-23
+137,Ocean Grill,Seafood,Delhi,3,"Service was fine, food took a bit longer than expected.",55,2023-06-16
+138,Blue Lotus,Thai,Hyderabad,4,The food was absolutely delicious and beautifully presented.,60,2023-06-03
+139,Noodle Bar,Chinese,Pune,5,The food was absolutely delicious and beautifully presented. The ambiance was cozy and the staff made us feel welcome.,118,2025-08-20
+140,Pasta Palace,Italian,Bengaluru,2,The portions were tiny for the price we paid.,45,2025-07-18
+141,Ocean Grill,Seafood,Bengaluru,4,"Amazing service, our server was attentive and friendly. Loved the dessert menu, the tiramisu was outstanding.",109,2024-02-10
+142,Sushi Zen,Japanese,Ahmedabad,5,"Amazing service, our server was attentive and friendly.",55,2024-06-28
+143,The Burger Joint,American,Jaipur,2,The restaurant was too noisy and cramped to enjoy the meal. Service was extremely slow and the staff seemed disinterested.,122,2024-09-21
+144,Pasta Palace,Italian,Mumbai,3,"Not the best, not the worst, a fairly typical dining experience. Service was fine, food took a bit longer than expected.",120,2025-04-04
+145,Chai & Chaat,Indian,Pune,3,"The ambiance was nice but the food was just average. It's a standard restaurant, does the job but nothing memorable.",116,2023-03-23
+146,The Spice Route,Indian,Ahmedabad,5,"Great spot for a family dinner, kids loved it too.",50,2023-07-07
+147,Ocean Grill,Seafood,Jaipur,2,The restaurant was too noisy and cramped to enjoy the meal.,59,2023-03-24
+148,Ocean Grill,Seafood,Mumbai,2,The portions were tiny for the price we paid. The restaurant was too noisy and cramped to enjoy the meal.,105,2024-01-07
+149,The Pizza Cellar,Italian,Mumbai,4,Portion sizes were generous and the prices were very fair. The staff went above and beyond to accommodate our allergies.,120,2024-12-13
+150,The Burger Joint,American,Pune,4,The staff went above and beyond to accommodate our allergies. Quick service even though the place was packed.,109,2024-11-06
+151,Coastal Kitchen,Seafood,Pune,3,"Average experience overall, might try another dish next time. Decent place for a quick bite if you're in the area.",114,2023-03-17
+152,Green Leaf Cafe,Vegan,Jaipur,4,"Loved the dessert menu, the tiramisu was outstanding. The food was absolutely delicious and beautifully presented.",114,2023-08-26
+153,Urban Tandoor,Indian,Chennai,2,I found a hair in my food and the manager barely apologized.,60,2023-04-22
+154,Chai & Chaat,Indian,Pune,3,"The food was okay, nothing special but not bad either. Average experience overall, might try another dish next time.",116,2025-10-17
+155,Blue Lotus,Thai,Mumbai,4,Quick service even though the place was packed. The staff went above and beyond to accommodate our allergies.,109,2023-09-26
+156,The Spice Route,Indian,Ahmedabad,3,"It's a standard restaurant, does the job but nothing memorable.",63,2024-05-05
+157,Blue Lotus,Thai,Mumbai,5,The ambiance was cozy and the staff made us feel welcome.,57,2025-04-15
+158,Noodle Bar,Chinese,Pune,4,Quick service even though the place was packed.,47,2023-08-29
+159,Saffron Table,Indian,Bengaluru,2,The restaurant was too noisy and cramped to enjoy the meal. Parking was a nightmare and the staff was rude at the entrance.,123,2024-07-13
+160,Noodle Bar,Chinese,Delhi,5,"The ambiance was cozy and the staff made us feel welcome. A hidden gem, the flavors were authentic and comforting.",114,2023-10-24
+161,Bella Napoli,Italian,Pune,2,The food was bland and lacked any real seasoning. I found a hair in my food and the manager barely apologized.,110,2024-07-19
+162,The Spice Route,Indian,Jaipur,5,"A hidden gem, the flavors were authentic and comforting. The staff went above and beyond to accommodate our allergies.",118,2024-08-02
+163,Sushi Zen,Japanese,Hyderabad,5,Portion sizes were generous and the prices were very fair. The staff went above and beyond to accommodate our allergies.,120,2025-07-03
+164,Noodle Bar,Chinese,Hyderabad,3,"Service was fine, food took a bit longer than expected.",55,2024-10-21
+165,Le Petit Bistro,French,Jaipur,4,Portion sizes were generous and the prices were very fair.,58,2025-04-21
+166,Coastal Kitchen,Seafood,Ahmedabad,3,"Not the best, not the worst, a fairly typical dining experience.",64,2025-03-01
+167,Sushi Zen,Japanese,Mumbai,5,"Amazing service, our server was attentive and friendly. Quick service even though the place was packed.",103,2025-10-25
+168,Saffron Table,Indian,Delhi,5,The staff went above and beyond to accommodate our allergies.,61,2025-07-24
+169,Urban Tandoor,Indian,Pune,3,"Not the best, not the worst, a fairly typical dining experience.",64,2023-11-13
+170,Green Leaf Cafe,Vegan,Hyderabad,2,The food was bland and lacked any real seasoning.,49,2025-03-25
+171,Green Leaf Cafe,Vegan,Mumbai,2,"Definitely not worth the hype, quite disappointing overall.",59,2025-09-26
+172,Le Petit Bistro,French,Mumbai,2,Parking was a nightmare and the staff was rude at the entrance.,63,2024-08-11
+173,Urban Tandoor,Indian,Delhi,3,"Not the best, not the worst, a fairly typical dining experience.",64,2023-07-21
+174,Pasta Palace,Italian,Ahmedabad,3,The ambiance was nice but the food was just average.,52,2023-03-01
+175,Pasta Palace,Italian,Bengaluru,3,"Reasonable prices, the menu could use more variety though. Average experience overall, might try another dish next time.",120,2025-01-04
+176,Saffron Table,Indian,Delhi,4,"Best meal I've had in months, will definitely come back!",56,2025-04-23
+177,Bella Napoli,Italian,Delhi,3,"Not the best, not the worst, a fairly typical dining experience.",64,2025-02-22
+178,Le Petit Bistro,French,Ahmedabad,4,"Quick service even though the place was packed. Fresh ingredients and bold flavors, highly recommend this place.",112,2025-08-02
+179,Noodle Bar,Chinese,Jaipur,4,"Amazing service, our server was attentive and friendly.",55,2024-08-12
+180,Smoky BBQ Pit,American,Jaipur,5,"The staff went above and beyond to accommodate our allergies. Fresh ingredients and bold flavors, highly recommend this place.",126,2024-09-04
+181,Pasta Palace,Italian,Bengaluru,3,"Not the best, not the worst, a fairly typical dining experience. The food was okay, nothing special but not bad either.",119,2024-02-12
+182,Coastal Kitchen,Seafood,Ahmedabad,2,Parking was a nightmare and the staff was rude at the entrance. Our order was wrong and it took forever to get it corrected.,124,2025-01-05
+183,Coastal Kitchen,Seafood,Ahmedabad,2,"Definitely not worth the hype, quite disappointing overall.",59,2024-07-16
+184,Chai & Chaat,Indian,Chennai,3,"Service was fine, food took a bit longer than expected. It's a standard restaurant, does the job but nothing memorable.",119,2025-10-14
+185,Le Petit Bistro,French,Mumbai,3,Decent place for a quick bite if you're in the area. The ambiance was nice but the food was just average.,105,2024-01-25
+186,Golden Dragon,Chinese,Chennai,4,"The food was absolutely delicious and beautifully presented. A hidden gem, the flavors were authentic and comforting.",117,2024-09-24
+187,Sushi Zen,Japanese,Delhi,5,"Portion sizes were generous and the prices were very fair. The chef clearly knows what they're doing, every dish was perfect.",125,2023-07-04
+188,Curry House,Indian,Pune,4,"Loved the dessert menu, the tiramisu was outstanding. The staff went above and beyond to accommodate our allergies.",115,2023-09-28
+189,The Burger Joint,American,Chennai,3,"It's a standard restaurant, does the job but nothing memorable. The ambiance was nice but the food was just average.",116,2024-06-10
+190,Taco Fiesta,Mexican,Bengaluru,2,Way overpriced for the quality and quantity we received.,56,2025-08-17
+191,Coastal Kitchen,Seafood,Ahmedabad,2,We waited over an hour despite having a reservation.,52,2025-01-19
+192,Ocean Grill,Seafood,Pune,4,"Portion sizes were generous and the prices were very fair. Great spot for a family dinner, kids loved it too.",109,2023-09-11
+193,Rustic Oven,Italian,Bengaluru,5,"Amazing service, our server was attentive and friendly. Great spot for a family dinner, kids loved it too.",106,2025-02-19
+194,The Pizza Cellar,Italian,Mumbai,3,"Service was fine, food took a bit longer than expected. The ambiance was nice but the food was just average.",108,2023-02-21
+195,Noodle Bar,Chinese,Ahmedabad,4,"Amazing service, our server was attentive and friendly. Best meal I've had in months, will definitely come back!",112,2024-09-10
+196,Golden Dragon,Chinese,Bengaluru,3,"Average experience overall, might try another dish next time. The food was okay, nothing special but not bad either.",116,2024-09-15
+197,Blue Lotus,Thai,Hyderabad,3,"Not the best, not the worst, a fairly typical dining experience. Decent place for a quick bite if you're in the area.",117,2023-10-05
+198,Rustic Oven,Italian,Jaipur,4,"Great spot for a family dinner, kids loved it too. Amazing service, our server was attentive and friendly.",106,2023-11-13
+199,Chai & Chaat,Indian,Chennai,3,"The food was okay, nothing special but not bad either. The ambiance was nice but the food was just average.",107,2025-04-15
+200,Curry House,Indian,Chennai,3,"Service was fine, food took a bit longer than expected. Reasonable prices, the menu could use more variety though.",114,2025-06-27
+201,Taco Fiesta,Mexican,Pune,4,"The food was absolutely delicious and beautifully presented. The chef clearly knows what they're doing, every dish was perfect.",127,2025-01-22
+202,Curry House,Indian,Bengaluru,5,"Amazing service, our server was attentive and friendly. Great spot for a family dinner, kids loved it too.",106,2023-09-08
+203,Chai & Chaat,Indian,,4,Portion sizes were generous and the prices were very fair.,58,2023-02-13
+204,Sushi Zen,Japanese,Bengaluru,5,"Loved the dessert menu, the tiramisu was outstanding.",53,2024-02-25
+205,Rustic Oven,Italian,Delhi,3,The ambiance was nice but the food was just average.,52,2024-03-18
+206,Chai & Chaat,Indian,Pune,2,Way overpriced for the quality and quantity we received. Parking was a nightmare and the staff was rude at the entrance.,120,2023-01-06
+207,The Burger Joint,American,Ahmedabad,5,"Best meal I've had in months, will definitely come back!",56,2023-08-14
+208,Smoky BBQ Pit,American,,4,"The food was absolutely delicious and beautifully presented. Best meal I've had in months, will definitely come back!",117,2024-05-02
+209,Golden Dragon,Chinese,Mumbai,3,"Average experience overall, might try another dish next time. The ambiance was nice but the food was just average.",114,2023-09-17
+210,The Pizza Cellar,Italian,Mumbai,5,"Loved the dessert menu, the tiramisu was outstanding. A hidden gem, the flavors were authentic and comforting.",110,2025-07-07
+211,Noodle Bar,Chinese,Ahmedabad,5,"A hidden gem, the flavors were authentic and comforting.",56,2025-10-28
+212,Saffron Table,Indian,Ahmedabad,4,"Great spot for a family dinner, kids loved it too. The food was absolutely delicious and beautifully presented.",111,2024-09-09
+213,The Pizza Cellar,Italian,Jaipur,5,"Great spot for a family dinner, kids loved it too. Amazing service, our server was attentive and friendly.",106,2025-04-02
+214,Noodle Bar,Chinese,Delhi,5,Portion sizes were generous and the prices were very fair.,58,2023-05-31
+215,Bella Napoli,Italian,Pune,3,"The ambiance was nice but the food was just average. Service was fine, food took a bit longer than expected.",108,2023-09-16
+216,Noodle Bar,Chinese,Bengaluru,5,"Amazing service, our server was attentive and friendly. The staff went above and beyond to accommodate our allergies.",117,2025-11-01
+217,Urban Tandoor,Indian,Chennai,2,We waited over an hour despite having a reservation.,52,2025-07-13
+218,Noodle Bar,Chinese,Chennai,4,"The staff went above and beyond to accommodate our allergies. Amazing service, our server was attentive and friendly.",117,2025-03-27
+219,Urban Tandoor,Indian,Jaipur,3,"The ambiance was nice but the food was just average. Average experience overall, might try another dish next time.",114,2024-10-02
+220,Bella Napoli,Italian,Hyderabad,3,"Average experience overall, might try another dish next time.",61,2023-07-06
+221,Taco Fiesta,Mexican,Ahmedabad,5,"Loved the dessert menu, the tiramisu was outstanding.",53,2025-02-02
+222,Rustic Oven,Italian,Chennai,2,We waited over an hour despite having a reservation.,52,2024-11-06
+223,Urban Tandoor,Indian,Chennai,4,"A hidden gem, the flavors were authentic and comforting. Fresh ingredients and bold flavors, highly recommend this place.",121,2023-04-16
+224,Taco Fiesta,Mexican,Jaipur,2,Way overpriced for the quality and quantity we received.,56,2025-11-05
+225,Le Petit Bistro,French,Mumbai,2,I found a hair in my food and the manager barely apologized. The food was bland and lacked any real seasoning.,110,2023-08-10
+226,Ocean Grill,Seafood,Ahmedabad,5,"Loved the dessert menu, the tiramisu was outstanding. A hidden gem, the flavors were authentic and comforting.",110,2024-04-08
+227,Chai & Chaat,Indian,Pune,3,Decent place for a quick bite if you're in the area.,52,2024-07-01
+228,Pasta Palace,Italian,Delhi,2,The food was cold by the time it reached our table. Way overpriced for the quality and quantity we received.,108,2024-11-26
+229,Rustic Oven,Italian,Ahmedabad,4,"Best meal I've had in months, will definitely come back!",56,2025-03-31
+230,Bella Napoli,Italian,Hyderabad,4,"The chef clearly knows what they're doing, every dish was perfect.",66,2025-12-22
+231,Noodle Bar,Chinese,Pune,3,The ambiance was nice but the food was just average.,52,2024-11-29
+232,Green Leaf Cafe,Vegan,Delhi,3,Decent place for a quick bite if you're in the area.,52,2023-06-23
+233,Chai & Chaat,Indian,Jaipur,3,"It's a standard restaurant, does the job but nothing memorable.",63,2023-04-12
+234,Urban Tandoor,Indian,Bengaluru,2,We waited over an hour despite having a reservation. Our order was wrong and it took forever to get it corrected.,113,2025-09-21
+235,Saffron Table,Indian,Pune,5,"The chef clearly knows what they're doing, every dish was perfect. Amazing service, our server was attentive and friendly.",122,2023-08-22
+236,Rustic Oven,Italian,Hyderabad,5,The food was absolutely delicious and beautifully presented. The ambiance was cozy and the staff made us feel welcome.,118,2025-09-23
+237,Chai & Chaat,Indian,Pune,1,The place was dirty and the tables hadn't been cleaned properly.,64,2023-04-23
+238,Curry House,Indian,Mumbai,5,"Fresh ingredients and bold flavors, highly recommend this place. Portion sizes were generous and the prices were very fair.",123,2023-10-09
+239,The Spice Route,Indian,Hyderabad,3,"Decent place for a quick bite if you're in the area. Average experience overall, might try another dish next time.",114,2025-10-15
+240,Blue Lotus,Thai,,5,"Amazing service, our server was attentive and friendly. The chef clearly knows what they're doing, every dish was perfect.",122,2024-04-16
+241,Urban Tandoor,Indian,Hyderabad,2,Service was extremely slow and the staff seemed disinterested. The food was bland and lacked any real seasoning.,112,2023-02-08
+242,Rustic Oven,Italian,Hyderabad,4,"Fresh ingredients and bold flavors, highly recommend this place. Amazing service, our server was attentive and friendly.",120,2025-04-08
+243,The Spice Route,Indian,Jaipur,5,"A hidden gem, the flavors were authentic and comforting.",56,2024-10-27
+244,Smoky BBQ Pit,American,Hyderabad,5,"Amazing service, our server was attentive and friendly. The ambiance was cozy and the staff made us feel welcome.",113,2023-06-30
+245,Rustic Oven,Italian,Pune,3,,58,2025-03-31
+246,Green Leaf Cafe,Vegan,Mumbai,3,"Decent place for a quick bite if you're in the area. The food was okay, nothing special but not bad either.",107,2024-03-29
+247,Saffron Table,Indian,Chennai,3,The ambiance was nice but the food was just average.,52,2025-11-10
+248,Sushi Zen,Japanese,Pune,4,"Best meal I've had in months, will definitely come back!",56,2024-04-28
+249,Curry House,Indian,Mumbai,5,"Great spot for a family dinner, kids loved it too.",50,2023-12-22
+250,The Burger Joint,American,Jaipur,4,"A hidden gem, the flavors were authentic and comforting. The staff went above and beyond to accommodate our allergies.",118,2025-10-08
+251,Rustic Oven,Italian,Mumbai,3,"Decent place for a quick bite if you're in the area. Service was fine, food took a bit longer than expected.",108,2024-10-23
+252,The Pizza Cellar,Italian,Ahmedabad,5,"Fresh ingredients and bold flavors, highly recommend this place. A hidden gem, the flavors were authentic and comforting.",121,2025-06-24
+253,Smoky BBQ Pit,American,Jaipur,5,"Fresh ingredients and bold flavors, highly recommend this place.",64,2025-11-05
+254,Noodle Bar,Chinese,Pune,5,Portion sizes were generous and the prices were very fair.,58,2023-03-19
+255,Bella Napoli,Italian,Ahmedabad,2,"The restaurant was too noisy and cramped to enjoy the meal. Definitely not worth the hype, quite disappointing overall.",119,2023-07-04
+256,Noodle Bar,Chinese,Delhi,4,"A hidden gem, the flavors were authentic and comforting. Quick service even though the place was packed.",104,2024-01-21
+257,Golden Dragon,Chinese,Mumbai,4,Portion sizes were generous and the prices were very fair.,58,2025-07-11
+258,Saffron Table,Indian,Jaipur,2,The place was dirty and the tables hadn't been cleaned properly.,64,2023-12-20
+259,Noodle Bar,Chinese,Chennai,4,Portion sizes were generous and the prices were very fair.,58,2025-12-09
+260,Pasta Palace,Italian,Ahmedabad,4,"Portion sizes were generous and the prices were very fair. Great spot for a family dinner, kids loved it too.",109,2025-03-04
+261,Green Leaf Cafe,Vegan,Hyderabad,2,Service was extremely slow and the staff seemed disinterested. I found a hair in my food and the manager barely apologized.,123,2023-05-15
+262,Pasta Palace,Italian,Mumbai,3,The ambiance was nice but the food was just average.,52,2024-05-31
+263,Rustic Oven,Italian,Hyderabad,1,Our order was wrong and it took forever to get it corrected. The portions were tiny for the price we paid.,106,2023-10-17
+264,Sushi Zen,Japanese,Chennai,3,"Reasonable prices, the menu could use more variety though. The ambiance was nice but the food was just average.",111,2023-06-23
+265,Sushi Zen,Japanese,Hyderabad,4,"Great spot for a family dinner, kids loved it too.",50,2025-12-14
+266,Saffron Table,Indian,Pune,2,The food was bland and lacked any real seasoning.,49,2025-01-11
+267,The Burger Joint,American,Bengaluru,5,Quick service even though the place was packed. The ambiance was cozy and the staff made us feel welcome.,105,2024-03-14
+268,Sushi Zen,Japanese,Mumbai,3,"It's a standard restaurant, does the job but nothing memorable.",63,2023-11-14
+269,Saffron Table,Indian,Delhi,3,The ambiance was nice but the food was just average.,52,2025-12-14
+270,Chai & Chaat,Indian,Delhi,3,Decent place for a quick bite if you're in the area.,52,2025-02-10
+271,Chai & Chaat,Indian,Chennai,4,"The food was absolutely delicious and beautifully presented. The chef clearly knows what they're doing, every dish was perfect.",127,2023-12-06
+272,Le Petit Bistro,French,Bengaluru,1,Parking was a nightmare and the staff was rude at the entrance. The restaurant was too noisy and cramped to enjoy the meal.,123,2025-06-28
+273,Blue Lotus,Thai,Chennai,5,Quick service even though the place was packed. The ambiance was cozy and the staff made us feel welcome.,105,2024-05-04
+274,Rustic Oven,Italian,Hyderabad,4,"Fresh ingredients and bold flavors, highly recommend this place. The chef clearly knows what they're doing, every dish was perfect.",131,2025-06-21
+275,The Burger Joint,American,Ahmedabad,3,"It's a standard restaurant, does the job but nothing memorable.",63,2024-02-13
+276,The Pizza Cellar,Italian,Mumbai,4,The staff went above and beyond to accommodate our allergies.,61,2025-01-30
+277,Pasta Palace,Italian,Jaipur,3,"It's a standard restaurant, does the job but nothing memorable.",63,2023-06-21
+278,Saffron Table,Indian,Jaipur,3,"Average experience overall, might try another dish next time. Not the best, not the worst, a fairly typical dining experience.",126,2023-10-29
+279,Smoky BBQ Pit,American,Chennai,4,"The food was absolutely delicious and beautifully presented. The chef clearly knows what they're doing, every dish was perfect.",127,2023-02-24
+280,Le Petit Bistro,French,Bengaluru,3,The ambiance was nice but the food was just average.,52,2025-03-01
+281,The Spice Route,Indian,Chennai,4,The staff went above and beyond to accommodate our allergies.,61,2024-10-14
+282,Sushi Zen,Japanese,Jaipur,5,"Fresh ingredients and bold flavors, highly recommend this place.",64,2023-10-09
+283,Sushi Zen,Japanese,Mumbai,5,"A hidden gem, the flavors were authentic and comforting. The food was absolutely delicious and beautifully presented.",117,2025-08-18
+284,The Spice Route,Indian,Hyderabad,3,Decent place for a quick bite if you're in the area.,52,2024-06-08
+285,Taco Fiesta,Mexican,Mumbai,5,"Fresh ingredients and bold flavors, highly recommend this place.",64,2024-08-13
+286,Golden Dragon,Chinese,Jaipur,1,"The portions were tiny for the price we paid. Definitely not worth the hype, quite disappointing overall.",105,2024-05-03
+287,Bella Napoli,Italian,Bengaluru,3,"The food was okay, nothing special but not bad either. The ambiance was nice but the food was just average.",107,2023-08-16
+288,Sushi Zen,Japanese,Chennai,5,"The food was absolutely delicious and beautifully presented. A hidden gem, the flavors were authentic and comforting.",117,2024-08-19
+289,Le Petit Bistro,French,Chennai,3,"Average experience overall, might try another dish next time.",61,2025-05-03
+290,Bella Napoli,Italian,Jaipur,3,"Reasonable prices, the menu could use more variety though.",58,2025-12-13
+291,Golden Dragon,Chinese,Ahmedabad,3,"It's a standard restaurant, does the job but nothing memorable. The ambiance was nice but the food was just average.",116,2025-03-03
+292,Smoky BBQ Pit,American,Mumbai,3,"Service was fine, food took a bit longer than expected. The ambiance was nice but the food was just average.",108,2023-05-19
+293,Rustic Oven,Italian,Chennai,4,The food was absolutely delicious and beautifully presented.,60,2024-11-11
+294,Blue Lotus,Thai,Jaipur,5,"Great spot for a family dinner, kids loved it too.",50,2024-11-24
+295,The Pizza Cellar,Italian,Jaipur,4,"Amazing service, our server was attentive and friendly.",55,2024-01-09
+296,Golden Dragon,Chinese,Bengaluru,2,The food was cold by the time it reached our table.,51,2024-08-23
+297,Golden Dragon,Chinese,Jaipur,4,"Loved the dessert menu, the tiramisu was outstanding. The chef clearly knows what they're doing, every dish was perfect.",120,2024-10-08
+298,Ocean Grill,Seafood,Chennai,4,"Fresh ingredients and bold flavors, highly recommend this place.",64,2023-03-16
+299,Golden Dragon,Chinese,Hyderabad,4,"Amazing service, our server was attentive and friendly. Portion sizes were generous and the prices were very fair.",114,2024-11-10
+300,Coastal Kitchen,Seafood,Jaipur,3,"The ambiance was nice but the food was just average. Average experience overall, might try another dish next time.",114,2025-06-19
+301,The Pizza Cellar,Italian,Hyderabad,3,"Average experience overall, might try another dish next time. The ambiance was nice but the food was just average.",114,2025-01-22
+302,Bella Napoli,Italian,Chennai,3,"It's a standard restaurant, does the job but nothing memorable.",63,2025-05-31
+303,Taco Fiesta,Mexican,Pune,4,"Great spot for a family dinner, kids loved it too. Fresh ingredients and bold flavors, highly recommend this place.",115,2023-06-13
+304,Noodle Bar,Chinese,Jaipur,5,The staff went above and beyond to accommodate our allergies.,61,2025-05-22
+305,Smoky BBQ Pit,American,Chennai,4,The staff went above and beyond to accommodate our allergies.,61,2025-07-04
+306,Chai & Chaat,Indian,Hyderabad,3,"The food was okay, nothing special but not bad either. Not the best, not the worst, a fairly typical dining experience.",119,2025-06-09
+307,Smoky BBQ Pit,American,Delhi,5,The food was absolutely delicious and beautifully presented.,60,2025-11-16
+308,Chai & Chaat,Indian,Mumbai,2,Way overpriced for the quality and quantity we received.,56,2025-06-16
+309,Le Petit Bistro,French,Ahmedabad,3,"Reasonable prices, the menu could use more variety though. It's a standard restaurant, does the job but nothing memorable.",122,2025-01-20
+310,Chai & Chaat,Indian,Jaipur,3,The ambiance was nice but the food was just average. Decent place for a quick bite if you're in the area.,105,2023-11-11
+311,Bella Napoli,Italian,Pune,3,"Reasonable prices, the menu could use more variety though. Decent place for a quick bite if you're in the area.",111,2023-10-09
+312,Le Petit Bistro,French,Delhi,4,The staff went above and beyond to accommodate our allergies.,61,2023-08-21
+313,The Pizza Cellar,Italian,Pune,5,"Loved the dessert menu, the tiramisu was outstanding. Amazing service, our server was attentive and friendly.",109,2025-11-26
+314,Ocean Grill,Seafood,Pune,4,"A hidden gem, the flavors were authentic and comforting.",56,2025-07-02
+315,The Pizza Cellar,Italian,Mumbai,5,"Best meal I've had in months, will definitely come back!",56,2024-02-14
+316,Noodle Bar,Chinese,Chennai,4,"Amazing service, our server was attentive and friendly. Great spot for a family dinner, kids loved it too.",106,2023-12-20
+317,Smoky BBQ Pit,American,Delhi,4,"Fresh ingredients and bold flavors, highly recommend this place. Best meal I've had in months, will definitely come back!",121,2023-05-13
+318,Smoky BBQ Pit,American,Bengaluru,3,"Average experience overall, might try another dish next time.",61,2025-11-07
+319,Sushi Zen,Japanese,Chennai,5,The food was absolutely delicious and beautifully presented. Portion sizes were generous and the prices were very fair.,119,2024-04-29
+320,Noodle Bar,Chinese,Pune,4,"Amazing service, our server was attentive and friendly.",55,2023-09-23
+321,Coastal Kitchen,Seafood,Mumbai,3,"Reasonable prices, the menu could use more variety though. Not the best, not the worst, a fairly typical dining experience.",123,2025-09-07
+322,Sushi Zen,Japanese,Jaipur,5,Quick service even though the place was packed.,47,2024-10-11
+323,Saffron Table,Indian,Delhi,2,I found a hair in my food and the manager barely apologized.,60,2024-12-06
+324,Sushi Zen,Japanese,Delhi,5,"Amazing service, our server was attentive and friendly.",55,2025-06-05
+325,Pasta Palace,Italian,Bengaluru,2,The food was bland and lacked any real seasoning.,49,2023-12-04
+326,Smoky BBQ Pit,American,Bengaluru,3,"Average experience overall, might try another dish next time. Decent place for a quick bite if you're in the area.",114,2025-11-28
+327,Blue Lotus,Thai,Pune,5,"Great spot for a family dinner, kids loved it too.",50,2024-07-16
+328,Chai & Chaat,Indian,Delhi,4,"Loved the dessert menu, the tiramisu was outstanding.",53,2025-12-28
+329,Rustic Oven,Italian,Chennai,5,"Great spot for a family dinner, kids loved it too.",50,2023-11-12
+330,Rustic Oven,Italian,Ahmedabad,5,"Amazing service, our server was attentive and friendly.",55,2023-03-26
+331,Rustic Oven,Italian,Hyderabad,4,"A hidden gem, the flavors were authentic and comforting.",56,2024-06-26
+332,Chai & Chaat,Indian,Pune,2,The portions were tiny for the price we paid. I found a hair in my food and the manager barely apologized.,106,2023-03-04
+333,Pasta Palace,Italian,Pune,3,"Reasonable prices, the menu could use more variety though.",58,2025-09-16
+334,Noodle Bar,Chinese,Jaipur,3,Decent place for a quick bite if you're in the area.,52,2023-05-30
+335,Urban Tandoor,Indian,Delhi,4,The ambiance was cozy and the staff made us feel welcome. Portion sizes were generous and the prices were very fair.,116,2025-09-18
+336,Green Leaf Cafe,Vegan,Chennai,3,"Reasonable prices, the menu could use more variety though. Average experience overall, might try another dish next time.",120,2024-10-15
+337,Saffron Table,Indian,Mumbai,2,The place was dirty and the tables hadn't been cleaned properly. The restaurant was too noisy and cramped to enjoy the meal.,124,2023-08-06
+338,Ocean Grill,Seafood,Mumbai,3,Decent place for a quick bite if you're in the area.,52,2025-07-09
+339,Golden Dragon,Chinese,Delhi,3,"Reasonable prices, the menu could use more variety though. Average experience overall, might try another dish next time.",120,2024-08-17
+340,Green Leaf Cafe,Vegan,Jaipur,3,Decent place for a quick bite if you're in the area.,52,2024-10-02
+341,Saffron Table,Indian,Ahmedabad,2,Our order was wrong and it took forever to get it corrected. The restaurant was too noisy and cramped to enjoy the meal.,120,2025-08-14
+342,Bella Napoli,Italian,Chennai,4,The ambiance was cozy and the staff made us feel welcome. The staff went above and beyond to accommodate our allergies.,119,2025-03-16
+343,Golden Dragon,Chinese,Jaipur,3,"Not the best, not the worst, a fairly typical dining experience. It's a standard restaurant, does the job but nothing memorable.",128,2023-04-14
+344,Pasta Palace,Italian,Delhi,2,We waited over an hour despite having a reservation.,52,2023-01-17
+345,Ocean Grill,Seafood,Hyderabad,3,"The ambiance was nice but the food was just average. The food was okay, nothing special but not bad either.",107,2025-01-19
+346,Golden Dragon,Chinese,,3,"It's a standard restaurant, does the job but nothing memorable. The food was okay, nothing special but not bad either.",118,2024-02-03
+347,Saffron Table,Indian,Mumbai,2,"Definitely not worth the hype, quite disappointing overall. The portions were tiny for the price we paid.",105,2025-07-11
+348,Sushi Zen,Japanese,Chennai,3,"The ambiance was nice but the food was just average. Reasonable prices, the menu could use more variety though.",111,2023-07-18
+349,Blue Lotus,Thai,Hyderabad,3,"Service was fine, food took a bit longer than expected.",55,2025-01-18
+350,Saffron Table,Indian,Delhi,3,"The food was okay, nothing special but not bad either.",54,2023-03-24
+351,Green Leaf Cafe,Vegan,Delhi,3,"Decent place for a quick bite if you're in the area. It's a standard restaurant, does the job but nothing memorable.",116,2025-08-28
+352,Green Leaf Cafe,Vegan,Pune,5,"The chef clearly knows what they're doing, every dish was perfect.",66,2024-10-14
+353,Rustic Oven,Italian,Pune,5,"The staff went above and beyond to accommodate our allergies. A hidden gem, the flavors were authentic and comforting.",118,2024-11-19
+354,The Pizza Cellar,Italian,Mumbai,4,"Portion sizes were generous and the prices were very fair. Great spot for a family dinner, kids loved it too.",109,2023-02-04
+355,Urban Tandoor,Indian,Pune,3,"Not the best, not the worst, a fairly typical dining experience.",64,2024-09-22
+356,Rustic Oven,Italian,Delhi,3,"Not the best, not the worst, a fairly typical dining experience.",64,2024-04-11
+357,Saffron Table,Indian,Ahmedabad,3,"Service was fine, food took a bit longer than expected.",55,2025-02-17
+358,Rustic Oven,Italian,Jaipur,4,The food was absolutely delicious and beautifully presented.,60,2023-08-14
+359,Green Leaf Cafe,Vegan,Bengaluru,3,"Reasonable prices, the menu could use more variety though.",58,2025-05-07
+360,Urban Tandoor,Indian,Delhi,2,Parking was a nightmare and the staff was rude at the entrance. The food was cold by the time it reached our table.,115,2025-10-24
+361,Saffron Table,Indian,Hyderabad,4,"Great spot for a family dinner, kids loved it too. Quick service even though the place was packed.",98,2024-02-29
+362,Green Leaf Cafe,Vegan,,5,"Loved the dessert menu, the tiramisu was outstanding. Portion sizes were generous and the prices were very fair.",112,2023-12-21
+363,Ocean Grill,Seafood,Pune,3,"Service was fine, food took a bit longer than expected.",55,2025-09-18
+364,Blue Lotus,Thai,Pune,4,"Fresh ingredients and bold flavors, highly recommend this place.",64,2024-09-03
+365,Curry House,Indian,Pune,5,Quick service even though the place was packed. Portion sizes were generous and the prices were very fair.,106,2025-09-28
+366,Pasta Palace,Italian,Delhi,2,We waited over an hour despite having a reservation. The food was bland and lacked any real seasoning.,102,2023-09-07
+367,Pasta Palace,Italian,Jaipur,3,"Average experience overall, might try another dish next time. Decent place for a quick bite if you're in the area.",114,2023-03-28
+368,Ocean Grill,Seafood,Pune,4,The ambiance was cozy and the staff made us feel welcome.,57,2025-09-08
+369,Blue Lotus,Thai,Bengaluru,4,"Amazing service, our server was attentive and friendly.",55,2024-07-10
+370,Le Petit Bistro,French,Bengaluru,2,The portions were tiny for the price we paid.,45,2023-04-14
+371,Golden Dragon,Chinese,Jaipur,3,"The ambiance was nice but the food was just average. Not the best, not the worst, a fairly typical dining experience.",117,2023-07-25
+372,Taco Fiesta,Mexican,Delhi,4,"Loved the dessert menu, the tiramisu was outstanding.",53,2023-10-09
+373,Urban Tandoor,Indian,Pune,5,"Great spot for a family dinner, kids loved it too. The ambiance was cozy and the staff made us feel welcome.",108,2025-09-01
+374,Green Leaf Cafe,Vegan,Bengaluru,4,"Amazing service, our server was attentive and friendly.",55,2024-08-07
+375,Blue Lotus,Thai,Delhi,5,"The chef clearly knows what they're doing, every dish was perfect.",66,2023-03-18
+376,Golden Dragon,Chinese,Ahmedabad,2,Way overpriced for the quality and quantity we received. Our order was wrong and it took forever to get it corrected.,117,2025-03-24
+377,The Spice Route,Indian,Pune,5,Portion sizes were generous and the prices were very fair.,58,2024-09-03
+378,Noodle Bar,Chinese,Jaipur,4,"Best meal I've had in months, will definitely come back! Loved the dessert menu, the tiramisu was outstanding.",110,2025-12-09
+379,Ocean Grill,Seafood,Delhi,5,Portion sizes were generous and the prices were very fair.,58,2024-01-30
+380,Noodle Bar,Chinese,Chennai,3,"The food was okay, nothing special but not bad either.",54,2024-06-10
+381,Pasta Palace,Italian,Hyderabad,2,"Definitely not worth the hype, quite disappointing overall.",59,2024-01-31
+382,Urban Tandoor,Indian,Mumbai,3,"Average experience overall, might try another dish next time. Service was fine, food took a bit longer than expected.",117,2025-11-21
+383,The Burger Joint,American,Ahmedabad,2,The food was bland and lacked any real seasoning. The place was dirty and the tables hadn't been cleaned properly.,114,2023-10-15
+384,Ocean Grill,Seafood,Pune,3,"Not the best, not the worst, a fairly typical dining experience.",64,2025-02-24
+385,Green Leaf Cafe,Vegan,Chennai,2,Our order was wrong and it took forever to get it corrected.,60,2024-09-10
+386,Le Petit Bistro,French,Pune,3,"Not the best, not the worst, a fairly typical dining experience.",64,2023-05-08
+387,The Burger Joint,American,Pune,4,"The staff went above and beyond to accommodate our allergies. Amazing service, our server was attentive and friendly.",117,2025-04-10
+388,Smoky BBQ Pit,American,Jaipur,5,"Best meal I've had in months, will definitely come back!",56,2024-03-28
+389,Sushi Zen,Japanese,Jaipur,5,"The chef clearly knows what they're doing, every dish was perfect. Loved the dessert menu, the tiramisu was outstanding.",120,2025-07-20
+390,Blue Lotus,Thai,Jaipur,3,"Average experience overall, might try another dish next time.",61,2024-03-23
+391,Saffron Table,Indian,Mumbai,2,"Definitely not worth the hype, quite disappointing overall.",59,2025-01-10
+392,Golden Dragon,Chinese,Delhi,3,Decent place for a quick bite if you're in the area.,52,2025-11-01
+393,Green Leaf Cafe,Vegan,Bengaluru,2,Service was extremely slow and the staff seemed disinterested. The portions were tiny for the price we paid.,108,2025-12-01
+394,Rustic Oven,Italian,Jaipur,5,"Loved the dessert menu, the tiramisu was outstanding.",53,2025-09-28
+395,Golden Dragon,Chinese,Hyderabad,4,"Loved the dessert menu, the tiramisu was outstanding.",53,2025-07-17
+396,Noodle Bar,Chinese,Ahmedabad,4,"Great spot for a family dinner, kids loved it too. Fresh ingredients and bold flavors, highly recommend this place.",115,2023-04-29
+397,Coastal Kitchen,Seafood,Bengaluru,1,Parking was a nightmare and the staff was rude at the entrance.,63,2024-06-05
+398,Rustic Oven,Italian,Chennai,5,"The chef clearly knows what they're doing, every dish was perfect.",66,2023-05-30
+399,Bella Napoli,Italian,Ahmedabad,3,"Not the best, not the worst, a fairly typical dining experience.",64,2023-05-04
+400,Pasta Palace,Italian,Hyderabad,4,"Best meal I've had in months, will definitely come back!",56,2025-04-17
+401,Smoky BBQ Pit,American,Mumbai,2,We waited over an hour despite having a reservation. Parking was a nightmare and the staff was rude at the entrance.,116,2025-02-22
+402,Blue Lotus,Thai,Hyderabad,3,"Average experience overall, might try another dish next time. Not the best, not the worst, a fairly typical dining experience.",126,2023-09-30
+403,Saffron Table,Indian,Ahmedabad,3,"The food was okay, nothing special but not bad either.",54,2023-09-18
+404,Pasta Palace,Italian,Bengaluru,3,"Reasonable prices, the menu could use more variety though. Not the best, not the worst, a fairly typical dining experience.",123,2025-08-06
+405,Le Petit Bistro,French,,2,Way overpriced for the quality and quantity we received. Our order was wrong and it took forever to get it corrected.,117,2025-08-01
+406,Taco Fiesta,Mexican,Bengaluru,4,"A hidden gem, the flavors were authentic and comforting. The food was absolutely delicious and beautifully presented.",117,2023-03-07
+407,Curry House,Indian,Jaipur,3,"The food was okay, nothing special but not bad either.",54,2023-05-18
+408,Chai & Chaat,Indian,Hyderabad,3,"The food was okay, nothing special but not bad either.",54,2023-04-10
+409,Noodle Bar,Chinese,Delhi,4,The food was absolutely delicious and beautifully presented.,60,2024-04-24
+410,Saffron Table,Indian,Chennai,4,The staff went above and beyond to accommodate our allergies.,61,2024-08-15
+411,Rustic Oven,Italian,,5,"Fresh ingredients and bold flavors, highly recommend this place.",64,2024-10-18
+412,Saffron Table,Indian,Ahmedabad,2,Our order was wrong and it took forever to get it corrected. Parking was a nightmare and the staff was rude at the entrance.,124,2024-03-28
+413,Blue Lotus,Thai,Ahmedabad,2,I found a hair in my food and the manager barely apologized. The restaurant was too noisy and cramped to enjoy the meal.,120,2023-12-25
+414,Smoky BBQ Pit,American,Hyderabad,5,"The staff went above and beyond to accommodate our allergies. The chef clearly knows what they're doing, every dish was perfect.",128,2025-02-19
+415,Sushi Zen,Japanese,Jaipur,5,"Best meal I've had in months, will definitely come back! Loved the dessert menu, the tiramisu was outstanding.",110,2024-09-06
+416,Le Petit Bistro,French,Jaipur,2,Parking was a nightmare and the staff was rude at the entrance. Way overpriced for the quality and quantity we received.,120,2024-04-06
+417,Golden Dragon,Chinese,Delhi,4,"Loved the dessert menu, the tiramisu was outstanding. The staff went above and beyond to accommodate our allergies.",115,2025-04-25
+418,Coastal Kitchen,Seafood,Mumbai,3,"Service was fine, food took a bit longer than expected. Decent place for a quick bite if you're in the area.",108,2024-05-12
+419,Noodle Bar,Chinese,Bengaluru,5,"Loved the dessert menu, the tiramisu was outstanding.",53,2025-01-29
+420,Golden Dragon,Chinese,Mumbai,3,"The food was okay, nothing special but not bad either. Reasonable prices, the menu could use more variety though.",113,2024-07-03
+421,Curry House,Indian,Pune,5,The ambiance was cozy and the staff made us feel welcome. Portion sizes were generous and the prices were very fair.,116,2024-03-20
+422,The Spice Route,Indian,Mumbai,5,The staff went above and beyond to accommodate our allergies.,61,2024-03-09
+423,The Pizza Cellar,Italian,Bengaluru,4,"The chef clearly knows what they're doing, every dish was perfect.",66,2024-05-11
+424,Blue Lotus,Thai,Chennai,5,"The chef clearly knows what they're doing, every dish was perfect. Quick service even though the place was packed.",114,2024-10-20
+425,Pasta Palace,Italian,Mumbai,3,"Not the best, not the worst, a fairly typical dining experience. Service was fine, food took a bit longer than expected.",120,2024-06-19
+426,The Pizza Cellar,Italian,Chennai,5,Portion sizes were generous and the prices were very fair.,58,2024-10-17
+427,Urban Tandoor,Indian,Delhi,2,Parking was a nightmare and the staff was rude at the entrance.,63,2023-04-04
+428,The Spice Route,Indian,Bengaluru,5,"Fresh ingredients and bold flavors, highly recommend this place. Best meal I've had in months, will definitely come back!",121,2024-06-18
+429,Green Leaf Cafe,Vegan,Jaipur,4,"A hidden gem, the flavors were authentic and comforting. The ambiance was cozy and the staff made us feel welcome.",114,2024-04-16
+430,Blue Lotus,Thai,Jaipur,2,The restaurant was too noisy and cramped to enjoy the meal. The portions were tiny for the price we paid.,105,2024-11-22
+431,Noodle Bar,Chinese,Jaipur,3,"Decent place for a quick bite if you're in the area. Average experience overall, might try another dish next time.",114,2023-12-11
+432,The Burger Joint,American,Ahmedabad,2,Service was extremely slow and the staff seemed disinterested.,62,2023-05-01
+433,The Spice Route,Indian,Bengaluru,4,"Great spot for a family dinner, kids loved it too.",50,2025-04-24
+434,Bella Napoli,Italian,Jaipur,4,The ambiance was cozy and the staff made us feel welcome.,57,2023-11-06
+435,Smoky BBQ Pit,American,Ahmedabad,5,"Great spot for a family dinner, kids loved it too. Quick service even though the place was packed.",98,2023-05-04
+436,The Spice Route,Indian,,4,The food was absolutely delicious and beautifully presented. The staff went above and beyond to accommodate our allergies.,122,2025-12-25
+437,Blue Lotus,Thai,Hyderabad,5,"Loved the dessert menu, the tiramisu was outstanding.",53,2024-08-10
+438,The Burger Joint,American,Bengaluru,3,Decent place for a quick bite if you're in the area.,52,2023-08-08
+439,Curry House,Indian,Hyderabad,3,The ambiance was nice but the food was just average. Decent place for a quick bite if you're in the area.,105,2025-12-14
+440,Bella Napoli,Italian,Bengaluru,3,"Not the best, not the worst, a fairly typical dining experience. It's a standard restaurant, does the job but nothing memorable.",128,2025-02-03
+441,Le Petit Bistro,French,Mumbai,3,"The food was okay, nothing special but not bad either.",54,2024-09-06
+442,Coastal Kitchen,Seafood,Ahmedabad,3,"Not the best, not the worst, a fairly typical dining experience. The food was okay, nothing special but not bad either.",119,2025-02-15
+443,The Burger Joint,American,Chennai,2,We waited over an hour despite having a reservation. The portions were tiny for the price we paid.,98,2023-06-19
+444,Rustic Oven,Italian,Bengaluru,4,The ambiance was cozy and the staff made us feel welcome.,57,2023-07-15
+445,Rustic Oven,Italian,Pune,3,"The food was okay, nothing special but not bad either. Not the best, not the worst, a fairly typical dining experience.",119,2025-08-31
+446,Blue Lotus,Thai,Ahmedabad,5,Portion sizes were generous and the prices were very fair.,58,2023-03-09
+447,Curry House,Indian,Delhi,5,"Amazing service, our server was attentive and friendly. Fresh ingredients and bold flavors, highly recommend this place.",120,2023-10-23
+448,Rustic Oven,Italian,Delhi,3,"The ambiance was nice but the food was just average. Service was fine, food took a bit longer than expected.",108,2024-05-07
+449,Bella Napoli,Italian,Hyderabad,3,"The food was okay, nothing special but not bad either. Not the best, not the worst, a fairly typical dining experience.",119,2025-10-22
+450,Le Petit Bistro,French,Hyderabad,2,"Definitely not worth the hype, quite disappointing overall. Parking was a nightmare and the staff was rude at the entrance.",123,2023-06-05
+451,Green Leaf Cafe,Vegan,Bengaluru,3,"Not the best, not the worst, a fairly typical dining experience. Service was fine, food took a bit longer than expected.",120,2023-03-02
+452,Smoky BBQ Pit,American,Hyderabad,5,"Best meal I've had in months, will definitely come back! Great spot for a family dinner, kids loved it too.",107,2025-02-07
+453,Bella Napoli,Italian,,2,Parking was a nightmare and the staff was rude at the entrance.,63,2024-08-27
+454,Bella Napoli,Italian,Delhi,4,"The chef clearly knows what they're doing, every dish was perfect.",66,2024-07-02
+455,Coastal Kitchen,Seafood,Ahmedabad,2,Service was extremely slow and the staff seemed disinterested. Parking was a nightmare and the staff was rude at the entrance.,126,2024-10-10
+456,Pasta Palace,Italian,Delhi,2,Our order was wrong and it took forever to get it corrected. Service was extremely slow and the staff seemed disinterested.,123,2025-06-29
+457,Bella Napoli,Italian,Hyderabad,3,,128,2024-01-19
+458,Taco Fiesta,Mexican,Mumbai,2,The food was bland and lacked any real seasoning.,49,2023-02-23
+459,Chai & Chaat,Indian,Hyderabad,2,The food was cold by the time it reached our table. Our order was wrong and it took forever to get it corrected.,112,2024-10-26
+460,Coastal Kitchen,Seafood,Delhi,2,"Definitely not worth the hype, quite disappointing overall.",59,2023-06-23
+461,Coastal Kitchen,Seafood,Pune,5,"Fresh ingredients and bold flavors, highly recommend this place.",64,2023-12-14
+462,Ocean Grill,Seafood,Delhi,4,"Amazing service, our server was attentive and friendly.",55,2025-10-06
+463,Urban Tandoor,Indian,,2,Our order was wrong and it took forever to get it corrected. The restaurant was too noisy and cramped to enjoy the meal.,120,2024-07-19
+464,Smoky BBQ Pit,American,Jaipur,4,The staff went above and beyond to accommodate our allergies.,61,2024-05-30
+465,Chai & Chaat,Indian,Pune,3,"Average experience overall, might try another dish next time. Not the best, not the worst, a fairly typical dining experience.",126,2024-02-05
+466,The Spice Route,Indian,Chennai,4,"A hidden gem, the flavors were authentic and comforting. The chef clearly knows what they're doing, every dish was perfect.",123,2025-03-21
+467,Noodle Bar,Chinese,Delhi,5,"Great spot for a family dinner, kids loved it too. A hidden gem, the flavors were authentic and comforting.",107,2024-11-16
+468,Pasta Palace,Italian,Chennai,4,Quick service even though the place was packed.,47,2024-10-18
+469,The Burger Joint,American,Jaipur,4,"Fresh ingredients and bold flavors, highly recommend this place. Great spot for a family dinner, kids loved it too.",115,2025-03-26
+470,Rustic Oven,Italian,Hyderabad,4,"The chef clearly knows what they're doing, every dish was perfect. Fresh ingredients and bold flavors, highly recommend this place.",131,2024-05-11
+471,Smoky BBQ Pit,American,Ahmedabad,3,Decent place for a quick bite if you're in the area.,52,2023-08-22
+472,Noodle Bar,Chinese,Hyderabad,2,Our order was wrong and it took forever to get it corrected. Service was extremely slow and the staff seemed disinterested.,123,2024-03-05
+473,The Pizza Cellar,Italian,Delhi,2,The place was dirty and the tables hadn't been cleaned properly. Our order was wrong and it took forever to get it corrected.,125,2023-10-13
+474,Urban Tandoor,Indian,Jaipur,5,Quick service even though the place was packed.,47,2025-02-11
+475,Rustic Oven,Italian,Chennai,5,"Loved the dessert menu, the tiramisu was outstanding. The food was absolutely delicious and beautifully presented.",114,2025-03-31
+476,Blue Lotus,Thai,Chennai,4,The ambiance was cozy and the staff made us feel welcome.,57,2023-06-24
+477,The Burger Joint,American,Mumbai,5,"Portion sizes were generous and the prices were very fair. The chef clearly knows what they're doing, every dish was perfect.",125,2023-04-01
+478,The Spice Route,Indian,Bengaluru,4,"The ambiance was cozy and the staff made us feel welcome. Loved the dessert menu, the tiramisu was outstanding.",111,2023-07-21
+479,Noodle Bar,Chinese,Delhi,5,"Quick service even though the place was packed. Great spot for a family dinner, kids loved it too.",98,2025-02-05
+480,Smoky BBQ Pit,American,Hyderabad,5,"Amazing service, our server was attentive and friendly. Fresh ingredients and bold flavors, highly recommend this place.",120,2023-02-20
+481,Bella Napoli,Italian,Pune,3,The ambiance was nice but the food was just average.,52,2023-08-26
+482,Green Leaf Cafe,Vegan,Jaipur,2,I found a hair in my food and the manager barely apologized.,60,2025-07-21
+483,Smoky BBQ Pit,American,Jaipur,2,The restaurant was too noisy and cramped to enjoy the meal.,59,2025-09-02
+484,Green Leaf Cafe,Vegan,Mumbai,3,"The food was okay, nothing special but not bad either. Reasonable prices, the menu could use more variety though.",113,2023-05-18
+485,The Spice Route,Indian,Bengaluru,3,Decent place for a quick bite if you're in the area.,52,2024-12-03
+486,Saffron Table,Indian,Hyderabad,2,The food was bland and lacked any real seasoning.,49,2023-12-24
+487,Noodle Bar,Chinese,Hyderabad,3,"Decent place for a quick bite if you're in the area. Average experience overall, might try another dish next time.",114,2024-04-19
+488,Coastal Kitchen,Seafood,Hyderabad,2,The restaurant was too noisy and cramped to enjoy the meal.,59,2023-03-01
+489,Coastal Kitchen,Seafood,Pune,4,The ambiance was cozy and the staff made us feel welcome.,57,2023-01-10
+490,Bella Napoli,Italian,Chennai,4,Portion sizes were generous and the prices were very fair.,58,2023-07-28
+491,Curry House,Indian,Jaipur,4,"Fresh ingredients and bold flavors, highly recommend this place.",64,2025-07-26
+492,Saffron Table,Indian,Mumbai,5,"A hidden gem, the flavors were authentic and comforting. The chef clearly knows what they're doing, every dish was perfect.",123,2024-10-03
+493,Smoky BBQ Pit,American,Pune,4,"A hidden gem, the flavors were authentic and comforting. Best meal I've had in months, will definitely come back!",113,2024-12-21
+494,Chai & Chaat,Indian,Mumbai,2,The food was bland and lacked any real seasoning.,49,2023-06-23
+495,Le Petit Bistro,French,,4,"Best meal I've had in months, will definitely come back!",56,2024-09-17
+496,Sushi Zen,Japanese,Delhi,5,"The chef clearly knows what they're doing, every dish was perfect. A hidden gem, the flavors were authentic and comforting.",123,2025-11-12
+497,Rustic Oven,Italian,Delhi,3,"Decent place for a quick bite if you're in the area. Service was fine, food took a bit longer than expected.",108,2025-02-24
+498,Blue Lotus,Thai,Delhi,4,"Fresh ingredients and bold flavors, highly recommend this place. Best meal I've had in months, will definitely come back!",121,2023-12-08
+499,Green Leaf Cafe,Vegan,Ahmedabad,2,The food was bland and lacked any real seasoning.,49,2025-07-12
+500,The Pizza Cellar,Italian,Jaipur,2,We waited over an hour despite having a reservation.,52,2023-10-07
+501,Urban Tandoor,Indian,Jaipur,4,The staff went above and beyond to accommodate our allergies. Quick service even though the place was packed.,109,2025-10-04
+502,The Burger Joint,American,Pune,5,The ambiance was cozy and the staff made us feel welcome.,57,2023-06-19
+503,Golden Dragon,Chinese,Pune,1,I found a hair in my food and the manager barely apologized.,60,2024-07-16
+504,The Burger Joint,American,Mumbai,5,"Loved the dessert menu, the tiramisu was outstanding. The staff went above and beyond to accommodate our allergies.",115,2025-07-25
+505,Rustic Oven,Italian,Ahmedabad,4,"Loved the dessert menu, the tiramisu was outstanding. Portion sizes were generous and the prices were very fair.",112,2023-08-22
+506,Noodle Bar,Chinese,Bengaluru,4,"Amazing service, our server was attentive and friendly. Great spot for a family dinner, kids loved it too.",106,2024-03-23
+507,Pasta Palace,Italian,Mumbai,2,Our order was wrong and it took forever to get it corrected. The food was bland and lacked any real seasoning.,110,2023-03-08
+508,Noodle Bar,Chinese,Chennai,3,"Service was fine, food took a bit longer than expected.",55,2023-08-29
+509,Chai & Chaat,Indian,Bengaluru,3,Decent place for a quick bite if you're in the area.,52,2025-05-26
+510,Curry House,Indian,Delhi,4,"Loved the dessert menu, the tiramisu was outstanding. Fresh ingredients and bold flavors, highly recommend this place.",118,2023-05-02
+511,Green Leaf Cafe,Vegan,Mumbai,3,"It's a standard restaurant, does the job but nothing memorable. Reasonable prices, the menu could use more variety though.",122,2024-08-22
+512,Sushi Zen,Japanese,Delhi,4,"Fresh ingredients and bold flavors, highly recommend this place.",64,2025-04-22
+513,Sushi Zen,Japanese,Chennai,4,The staff went above and beyond to accommodate our allergies.,61,2024-05-26
+514,Le Petit Bistro,French,Pune,2,"Way overpriced for the quality and quantity we received. Definitely not worth the hype, quite disappointing overall.",116,2025-03-15
+515,Urban Tandoor,Indian,Mumbai,3,"Average experience overall, might try another dish next time. The ambiance was nice but the food was just average.",114,2025-02-07
+516,Coastal Kitchen,Seafood,Jaipur,4,The staff went above and beyond to accommodate our allergies. Portion sizes were generous and the prices were very fair.,120,2025-11-21
+517,The Pizza Cellar,Italian,Mumbai,4,The staff went above and beyond to accommodate our allergies.,61,2024-11-01
+518,Noodle Bar,Chinese,Bengaluru,3,"Reasonable prices, the menu could use more variety though.",58,2025-01-03
+519,Urban Tandoor,Indian,Pune,3,"It's a standard restaurant, does the job but nothing memorable. Decent place for a quick bite if you're in the area.",116,2024-03-09
+520,Green Leaf Cafe,Vegan,Ahmedabad,4,"Portion sizes were generous and the prices were very fair. Great spot for a family dinner, kids loved it too.",109,2023-09-25
+521,Golden Dragon,Chinese,Delhi,1,The food was cold by the time it reached our table. Service was extremely slow and the staff seemed disinterested.,114,2023-07-23
+522,Noodle Bar,Chinese,Bengaluru,5,"The chef clearly knows what they're doing, every dish was perfect.",66,2025-07-23
+523,Sushi Zen,Japanese,Mumbai,4,"Fresh ingredients and bold flavors, highly recommend this place.",64,2024-09-10
+524,Smoky BBQ Pit,American,Delhi,4,Portion sizes were generous and the prices were very fair.,58,2024-05-27
+525,Golden Dragon,Chinese,Hyderabad,2,Parking was a nightmare and the staff was rude at the entrance. The place was dirty and the tables hadn't been cleaned properly.,128,2025-03-22
+526,Bella Napoli,Italian,Jaipur,1,The place was dirty and the tables hadn't been cleaned properly.,64,2023-07-14
+527,Bella Napoli,Italian,Jaipur,2,I found a hair in my food and the manager barely apologized.,60,2023-09-29
+528,The Spice Route,Indian,Delhi,4,"Amazing service, our server was attentive and friendly. The chef clearly knows what they're doing, every dish was perfect.",122,2023-01-17
+529,The Pizza Cellar,Italian,Mumbai,4,"The chef clearly knows what they're doing, every dish was perfect.",66,2023-05-26
+530,Taco Fiesta,Mexican,Delhi,2,The food was bland and lacked any real seasoning. Our order was wrong and it took forever to get it corrected.,110,2023-07-31
+531,Coastal Kitchen,Seafood,Ahmedabad,3,"Average experience overall, might try another dish next time.",61,2023-09-30
+532,Chai & Chaat,Indian,Delhi,1,The food was bland and lacked any real seasoning. The place was dirty and the tables hadn't been cleaned properly.,114,2023-12-03
+533,Urban Tandoor,Indian,Mumbai,3,"Average experience overall, might try another dish next time.",61,2025-06-25
+534,Sushi Zen,Japanese,Chennai,3,"The ambiance was nice but the food was just average. Service was fine, food took a bit longer than expected.",108,2023-09-10
+535,Sushi Zen,Japanese,Bengaluru,4,"Great spot for a family dinner, kids loved it too. Amazing service, our server was attentive and friendly.",106,2024-05-22
+536,Blue Lotus,Thai,Pune,4,"Great spot for a family dinner, kids loved it too.",50,2024-08-06
+537,Curry House,Indian,Hyderabad,4,The staff went above and beyond to accommodate our allergies.,61,2025-11-26
+538,Pasta Palace,Italian,Hyderabad,2,The restaurant was too noisy and cramped to enjoy the meal.,59,2023-04-22
+539,Taco Fiesta,Mexican,Mumbai,4,"Great spot for a family dinner, kids loved it too. A hidden gem, the flavors were authentic and comforting.",107,2024-05-08
+540,Saffron Table,Indian,Hyderabad,3,"The ambiance was nice but the food was just average. Average experience overall, might try another dish next time.",114,2023-01-25
+541,Rustic Oven,Italian,Delhi,5,"Loved the dessert menu, the tiramisu was outstanding. Great spot for a family dinner, kids loved it too.",104,2025-05-11
+542,The Pizza Cellar,Italian,Ahmedabad,3,"Average experience overall, might try another dish next time.",61,2023-05-30
+543,Ocean Grill,Seafood,Hyderabad,4,The food was absolutely delicious and beautifully presented.,60,2024-03-17
+544,Saffron Table,Indian,Mumbai,5,"The chef clearly knows what they're doing, every dish was perfect. The staff went above and beyond to accommodate our allergies.",128,2024-08-09
+545,Blue Lotus,Thai,Mumbai,1,Service was extremely slow and the staff seemed disinterested. Our order was wrong and it took forever to get it corrected.,123,2023-11-09
+546,Saffron Table,Indian,Chennai,2,I found a hair in my food and the manager barely apologized.,60,2024-02-21
+547,Coastal Kitchen,Seafood,Bengaluru,3,"Reasonable prices, the menu could use more variety though. The ambiance was nice but the food was just average.",111,2023-05-16
+548,Golden Dragon,Chinese,Mumbai,3,"Reasonable prices, the menu could use more variety though.",58,2024-05-15
+549,Noodle Bar,Chinese,Delhi,4,"Great spot for a family dinner, kids loved it too. The staff went above and beyond to accommodate our allergies.",112,2023-04-23
+550,Taco Fiesta,Mexican,Delhi,3,"The food was okay, nothing special but not bad either.",54,2023-01-26
+551,The Pizza Cellar,Italian,Delhi,4,"Best meal I've had in months, will definitely come back! Portion sizes were generous and the prices were very fair.",115,2024-12-11
+552,Ocean Grill,Seafood,Hyderabad,3,The ambiance was nice but the food was just average.,52,2023-08-30
+553,Ocean Grill,Seafood,Mumbai,5,"Fresh ingredients and bold flavors, highly recommend this place.",64,2025-12-08
+554,The Pizza Cellar,Italian,Delhi,4,The food was absolutely delicious and beautifully presented. Quick service even though the place was packed.,108,2025-07-21
+555,Smoky BBQ Pit,American,Mumbai,4,"Amazing service, our server was attentive and friendly. A hidden gem, the flavors were authentic and comforting.",112,2023-11-19
+556,Le Petit Bistro,French,Ahmedabad,3,"The food was okay, nothing special but not bad either.",54,2025-11-08
+557,Le Petit Bistro,French,Delhi,2,The food was bland and lacked any real seasoning. We waited over an hour despite having a reservation.,102,2023-04-05
+558,The Burger Joint,American,Bengaluru,4,The ambiance was cozy and the staff made us feel welcome. Portion sizes were generous and the prices were very fair.,116,2023-03-14
+559,Urban Tandoor,Indian,Chennai,4,"Amazing service, our server was attentive and friendly. A hidden gem, the flavors were authentic and comforting.",112,2024-10-17
+560,Taco Fiesta,Mexican,Bengaluru,3,Decent place for a quick bite if you're in the area.,52,2025-10-25
+561,Saffron Table,Indian,Pune,3,"Average experience overall, might try another dish next time. Service was fine, food took a bit longer than expected.",117,2023-04-05
+562,Pasta Palace,Italian,Jaipur,5,"Loved the dessert menu, the tiramisu was outstanding.",53,2024-11-01
+563,The Spice Route,Indian,Pune,5,"Fresh ingredients and bold flavors, highly recommend this place.",64,2025-01-25
+564,Chai & Chaat,Indian,Jaipur,2,"The food was bland and lacked any real seasoning. Definitely not worth the hype, quite disappointing overall.",109,2024-05-11
+565,Curry House,Indian,Hyderabad,5,The food was absolutely delicious and beautifully presented.,60,2024-05-17
+566,The Spice Route,Indian,Chennai,4,"Great spot for a family dinner, kids loved it too. The food was absolutely delicious and beautifully presented.",111,2024-04-22
+567,The Spice Route,Indian,Bengaluru,2,Service was extremely slow and the staff seemed disinterested. The place was dirty and the tables hadn't been cleaned properly.,127,2025-02-09
+568,Urban Tandoor,Indian,Pune,2,Way overpriced for the quality and quantity we received.,56,2025-10-04
+569,Bella Napoli,Italian,Hyderabad,1,I found a hair in my food and the manager barely apologized.,60,2023-03-31
+570,Smoky BBQ Pit,American,Delhi,3,"Average experience overall, might try another dish next time.",61,2025-07-27
+571,Coastal Kitchen,Seafood,Delhi,3,"Reasonable prices, the menu could use more variety though.",58,2023-06-03
+572,Le Petit Bistro,French,Chennai,5,"Portion sizes were generous and the prices were very fair. The chef clearly knows what they're doing, every dish was perfect.",125,2024-08-20
+573,Green Leaf Cafe,Vegan,Bengaluru,4,"The ambiance was cozy and the staff made us feel welcome. Amazing service, our server was attentive and friendly.",113,2025-07-16
+574,Sushi Zen,Japanese,Delhi,4,"Amazing service, our server was attentive and friendly.",55,2023-08-12
+575,Noodle Bar,Chinese,Chennai,5,"The chef clearly knows what they're doing, every dish was perfect. Amazing service, our server was attentive and friendly.",122,2025-08-12
+576,Curry House,Indian,Mumbai,2,The restaurant was too noisy and cramped to enjoy the meal. Our order was wrong and it took forever to get it corrected.,120,2025-07-14
+577,Bella Napoli,Italian,Ahmedabad,4,"The staff went above and beyond to accommodate our allergies. A hidden gem, the flavors were authentic and comforting.",118,2023-11-19
+578,Curry House,Indian,Bengaluru,5,"Amazing service, our server was attentive and friendly.",55,2024-11-02
+579,Smoky BBQ Pit,American,Pune,2,The portions were tiny for the price we paid.,45,2025-03-22
+580,Ocean Grill,Seafood,Jaipur,5,"The chef clearly knows what they're doing, every dish was perfect.",66,2023-12-23
+581,Blue Lotus,Thai,Mumbai,4,Quick service even though the place was packed.,47,2024-05-26
+582,Sushi Zen,Japanese,Bengaluru,4,The food was absolutely delicious and beautifully presented.,60,2023-09-06
+583,Sushi Zen,Japanese,Mumbai,5,"Portion sizes were generous and the prices were very fair. Great spot for a family dinner, kids loved it too.",109,2024-02-10
+584,Rustic Oven,Italian,,5,The food was absolutely delicious and beautifully presented.,60,2024-06-14
+585,Curry House,Indian,Chennai,5,"Amazing service, our server was attentive and friendly.",55,2025-06-27
+586,Taco Fiesta,Mexican,Hyderabad,3,"The food was okay, nothing special but not bad either. Average experience overall, might try another dish next time.",116,2023-03-29
+587,Coastal Kitchen,Seafood,Hyderabad,2,We waited over an hour despite having a reservation.,52,2025-10-13
+588,The Burger Joint,American,Pune,3,Decent place for a quick bite if you're in the area.,52,2024-12-25
+589,Ocean Grill,Seafood,Bengaluru,4,The food was absolutely delicious and beautifully presented.,60,2025-07-02
+590,Pasta Palace,Italian,Ahmedabad,2,I found a hair in my food and the manager barely apologized. The restaurant was too noisy and cramped to enjoy the meal.,120,2025-10-18
+591,Bella Napoli,Italian,Bengaluru,3,"Decent place for a quick bite if you're in the area. Service was fine, food took a bit longer than expected.",108,2024-07-26
+592,Saffron Table,Indian,Chennai,3,"Reasonable prices, the menu could use more variety though.",58,2024-05-25
+593,The Pizza Cellar,Italian,Chennai,4,"A hidden gem, the flavors were authentic and comforting. Loved the dessert menu, the tiramisu was outstanding.",110,2025-09-19
+594,Coastal Kitchen,Seafood,Chennai,3,"The food was okay, nothing special but not bad either.",54,2024-07-07
+595,Chai & Chaat,Indian,Ahmedabad,4,"Fresh ingredients and bold flavors, highly recommend this place.",64,2024-03-24
+596,The Pizza Cellar,Italian,Mumbai,3,"Service was fine, food took a bit longer than expected. Average experience overall, might try another dish next time.",117,2025-12-20
+597,Le Petit Bistro,French,Bengaluru,3,"The food was okay, nothing special but not bad either. Reasonable prices, the menu could use more variety though.",113,2024-05-08
+598,Rustic Oven,Italian,Bengaluru,3,"Decent place for a quick bite if you're in the area. Average experience overall, might try another dish next time.",114,2025-03-06
+599,Rustic Oven,Italian,Chennai,4,"A hidden gem, the flavors were authentic and comforting. The food was absolutely delicious and beautifully presented.",117,2024-10-13
+600,Rustic Oven,Italian,Pune,5,Quick service even though the place was packed.,47,2023-10-19
+601,The Burger Joint,American,Ahmedabad,5,"Amazing service, our server was attentive and friendly.",55,2025-10-01
+602,Le Petit Bistro,French,Jaipur,2,I found a hair in my food and the manager barely apologized.,60,2024-03-24
+603,The Spice Route,Indian,Chennai,5,"Best meal I've had in months, will definitely come back!",56,2024-11-10
+604,The Burger Joint,American,Delhi,5,The food was absolutely delicious and beautifully presented.,60,2024-10-24
+605,Rustic Oven,Italian,Chennai,5,"Loved the dessert menu, the tiramisu was outstanding.",53,2023-10-18
+606,Bella Napoli,Italian,Chennai,5,"A hidden gem, the flavors were authentic and comforting. Amazing service, our server was attentive and friendly.",112,2025-02-04
+607,Pasta Palace,Italian,Hyderabad,2,Way overpriced for the quality and quantity we received.,56,2024-10-22
+608,The Pizza Cellar,Italian,Bengaluru,3,The ambiance was nice but the food was just average.,52,2024-10-11
+609,Rustic Oven,Italian,,3,"It's a standard restaurant, does the job but nothing memorable. The ambiance was nice but the food was just average.",116,2023-12-26
+610,Sushi Zen,Japanese,Hyderabad,5,The staff went above and beyond to accommodate our allergies.,61,2023-12-30
+611,Rustic Oven,Italian,Chennai,5,"A hidden gem, the flavors were authentic and comforting.",56,2023-03-08
+612,Chai & Chaat,Indian,Delhi,3,"Not the best, not the worst, a fairly typical dining experience.",64,2024-03-28
+613,Green Leaf Cafe,Vegan,Chennai,3,The ambiance was nice but the food was just average.,52,2023-06-09
+614,The Burger Joint,American,Pune,3,"Not the best, not the worst, a fairly typical dining experience. The food was okay, nothing special but not bad either.",119,2023-07-01
+615,Curry House,Indian,Pune,5,Portion sizes were generous and the prices were very fair.,58,2024-05-26
+616,Taco Fiesta,Mexican,Jaipur,3,"Reasonable prices, the menu could use more variety though.",58,2023-01-03
+617,Urban Tandoor,Indian,Chennai,3,"Not the best, not the worst, a fairly typical dining experience. Service was fine, food took a bit longer than expected.",120,2023-12-07
+618,Blue Lotus,Thai,Bengaluru,5,Quick service even though the place was packed.,47,2025-02-07
+619,The Burger Joint,American,Pune,5,The food was absolutely delicious and beautifully presented.,60,2025-07-13
+620,The Spice Route,Indian,Chennai,4,"Amazing service, our server was attentive and friendly. The staff went above and beyond to accommodate our allergies.",117,2024-10-14
+621,The Burger Joint,American,Mumbai,3,"Average experience overall, might try another dish next time.",61,2025-02-07
+622,Green Leaf Cafe,Vegan,Delhi,4,"The chef clearly knows what they're doing, every dish was perfect.",66,2025-09-15
+623,Chai & Chaat,Indian,Mumbai,5,The food was absolutely delicious and beautifully presented.,60,2025-06-08
+624,Green Leaf Cafe,Vegan,,5,"The chef clearly knows what they're doing, every dish was perfect.",66,2024-02-25
+625,Pasta Palace,Italian,Ahmedabad,4,"Amazing service, our server was attentive and friendly.",55,2024-09-01
+626,Coastal Kitchen,Seafood,Chennai,2,The food was cold by the time it reached our table.,51,2025-10-02
+627,The Spice Route,Indian,Jaipur,3,"It's a standard restaurant, does the job but nothing memorable.",63,2025-05-25
+628,Curry House,Indian,Delhi,4,The ambiance was cozy and the staff made us feel welcome.,57,2023-07-18
+629,Pasta Palace,Italian,Hyderabad,3,"Average experience overall, might try another dish next time. Decent place for a quick bite if you're in the area.",114,2023-06-17
+630,The Pizza Cellar,Italian,Hyderabad,5,"Amazing service, our server was attentive and friendly. Great spot for a family dinner, kids loved it too.",106,2025-09-28
+631,The Burger Joint,American,Jaipur,2,The food was bland and lacked any real seasoning. Way overpriced for the quality and quantity we received.,106,2025-01-29
+632,Golden Dragon,Chinese,Bengaluru,4,"Quick service even though the place was packed. Fresh ingredients and bold flavors, highly recommend this place.",112,2024-06-23
+633,Ocean Grill,Seafood,Mumbai,3,"Average experience overall, might try another dish next time.",61,2023-05-07
+634,Smoky BBQ Pit,American,Hyderabad,3,"The food was okay, nothing special but not bad either.",54,2025-04-27
+635,Saffron Table,Indian,Jaipur,2,"Definitely not worth the hype, quite disappointing overall. The place was dirty and the tables hadn't been cleaned properly.",124,2025-05-07
+636,Pasta Palace,Italian,Delhi,1,Parking was a nightmare and the staff was rude at the entrance. The food was cold by the time it reached our table.,115,2023-06-11
+637,Taco Fiesta,Mexican,Bengaluru,4,"Best meal I've had in months, will definitely come back!",56,2025-07-08
+638,Curry House,Indian,Mumbai,5,"The chef clearly knows what they're doing, every dish was perfect.",66,2023-09-16
+639,Urban Tandoor,Indian,Pune,2,"Definitely not worth the hype, quite disappointing overall.",59,2024-02-18
+640,Green Leaf Cafe,Vegan,Hyderabad,2,We waited over an hour despite having a reservation.,52,2023-05-18
+641,Blue Lotus,Thai,Ahmedabad,4,"Loved the dessert menu, the tiramisu was outstanding. Quick service even though the place was packed.",101,2024-10-29
+642,Chai & Chaat,Indian,Delhi,4,"Amazing service, our server was attentive and friendly. The chef clearly knows what they're doing, every dish was perfect.",122,2025-12-06
+643,Sushi Zen,Japanese,Mumbai,4,"A hidden gem, the flavors were authentic and comforting.",56,2023-07-25
+644,Pasta Palace,Italian,Jaipur,1,Our order was wrong and it took forever to get it corrected. We waited over an hour despite having a reservation.,113,2024-12-05
+645,Rustic Oven,Italian,Pune,4,"Best meal I've had in months, will definitely come back!",56,2025-08-26
+646,Coastal Kitchen,Seafood,Chennai,3,"The food was okay, nothing special but not bad either. Service was fine, food took a bit longer than expected.",110,2023-10-22
+647,Le Petit Bistro,French,Ahmedabad,1,Our order was wrong and it took forever to get it corrected. The food was bland and lacked any real seasoning.,110,2023-04-11
+648,Green Leaf Cafe,Vegan,Jaipur,3,"It's a standard restaurant, does the job but nothing memorable. Reasonable prices, the menu could use more variety though.",122,2024-09-12
+649,Taco Fiesta,Mexican,Jaipur,3,"It's a standard restaurant, does the job but nothing memorable.",63,2024-04-11
+650,Green Leaf Cafe,Vegan,Mumbai,4,"A hidden gem, the flavors were authentic and comforting. Great spot for a family dinner, kids loved it too.",107,2024-07-05
+386,Le Petit Bistro,French,Pune,3,"Not the best, not the worst, a fairly typical dining experience.",64,2023-05-08
+243,The Spice Route,Indian,Jaipur,5,"A hidden gem, the flavors were authentic and comforting.",56,2024-10-27
+601,The Burger Joint,American,Ahmedabad,5,"Amazing service, our server was attentive and friendly.",55,2025-10-01
+580,Ocean Grill,Seafood,Jaipur,5,"The chef clearly knows what they're doing, every dish was perfect.",66,2023-12-23
+476,Blue Lotus,Thai,Chennai,4,The ambiance was cozy and the staff made us feel welcome.,57,2023-06-24
+466,The Spice Route,Indian,Chennai,4,"A hidden gem, the flavors were authentic and comforting. The chef clearly knows what they're doing, every dish was perfect.",123,2025-03-21
+215,Bella Napoli,Italian,Pune,3,"The ambiance was nice but the food was just average. Service was fine, food took a bit longer than expected.",108,2023-09-16
+590,Pasta Palace,Italian,Ahmedabad,2,I found a hair in my food and the manager barely apologized. The restaurant was too noisy and cramped to enjoy the meal.,120,2025-10-18
